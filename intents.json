@@ -1,0 +1,1902 @@
+{
+  "intents": [
+    {
+      "tag": "pengertian",
+      "patterns": [
+        "Apa itu Universitas Singaperbangsa Karawang?",
+        "Apa itu UNSIKA?",
+        "UNSIKA itu apa?",
+        "Singaperbangsa Karawang itu universitas apa?",
+        "Bisa jelaskan tentang UNSIKA?",
+        "Apa kepanjangan dari UNSIKA?",
+        "UNSIKA singkatan dari apa?",
+        "Ceritakan tentang Universitas Singaperbangsa Karawang.",
+        "UNSIKA itu PTN atau PTS?",
+        "Kapan UNSIKA menjadi PTN?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) adalah perguruan tinggi negeri yang berada di Karawang, Jawa Barat.",
+        "UNSIKA merupakan singkatan dari Universitas Singaperbangsa Karawang.",
+        "UNSIKA awalnya merupakan perguruan tinggi swasta yang kemudian berubah status menjadi negeri pada tahun 2014.",
+        "Universitas ini didirikan pada tanggal 2 Februari 1982 dan menjadi PTN pada 6 Oktober 2014.",
+        "UNSIKA terletak di Kabupaten Karawang dan menyediakan berbagai program studi dari jenjang diploma hingga pascasarjana.",
+        "UNSIKA memiliki visi menjadi universitas unggul di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat.",
+        "Sebagai PTN, UNSIKA berperan dalam mencetak lulusan yang kompeten dan berdaya saing di tingkat nasional maupun internasional.",
+        "Nama 'Singaperbangsa' berasal dari tokoh sejarah Karawang, yaitu Raden Adipati Singaperbangsa.",
+        "UNSIKA berlokasi strategis di kawasan industri Karawang, mendukung kolaborasi antara dunia pendidikan dan industri.",
+        "UNSIKA telah mengalami perkembangan pesat sejak menjadi perguruan tinggi negeri dan kini memiliki delapan fakultas."
+      ]
+    },
+    {
+      "tag": "lokasi",
+      "patterns": [
+        "Dimana lokasi Universitas Singaperbangsa Karawang?",
+        "UNSIKA ada di mana?",
+        "Lokasi kampus UNSIKA dimana?",
+        "Alamat UNSIKA dimana ya?",
+        "UNSIKA berlokasi di mana?",
+        "Dimana letak Universitas Singaperbangsa Karawang?",
+        "Kampus UNSIKA ada di daerah mana?",
+        "Universitas Singaperbangsa Karawang terletak di mana?",
+        "Dimana saya bisa menemukan kampus UNSIKA?",
+        "Letak geografis UNSIKA ada di mana?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang terletak di Kabupaten Karawang, Jawa Barat, Indonesia.",
+        "Lokasi UNSIKA berada di Jl. HS. Ronggowaluyo, Puseurjaya, Kecamatan Telukjambe Timur, Karawang.",
+        "UNSIKA berlokasi di Karawang Timur, Provinsi Jawa Barat.",
+        "Kampus UNSIKA berada di wilayah industri Karawang, tepatnya di Telukjambe Timur.",
+        "UNSIKA beralamat di Puseurjaya, Karawang, Jawa Barat.",
+        "Letak Universitas Singaperbangsa Karawang berada di bagian timur Kota Karawang.",
+        "Anda bisa menemukan kampus UNSIKA di Karawang, sekitar 1,5 jam dari Jakarta.",
+        "Kampus UNSIKA terletak di daerah strategis dekat kawasan industri Karawang.",
+        "UNSIKA berada di Karawang, salah satu kota industri besar di Jawa Barat.",
+        "Lokasi lengkap UNSIKA adalah di Jl. HS. Ronggowaluyo, Karawang Timur, Jawa Barat, Indonesia."
+      ]
+    },
+    {
+      "tag": "pendirian",
+      "patterns": [
+        "Kapan Universitas Singaperbangsa Karawang didirikan?",
+        "UNSIKA berdiri tahun berapa?",
+        "Tahun berapa UNSIKA didirikan?",
+        "Kapan berdirinya Universitas Singaperbangsa Karawang?",
+        "Sejak kapan UNSIKA ada?",
+        "Kapan UNSIKA mulai berdiri?",
+        "UNSIKA mulai berdiri tahun berapa?",
+        "Tanggal berapa UNSIKA didirikan?",
+        "UNSIKA didirikan kapan?",
+        "Awal berdiri Universitas Singaperbangsa Karawang kapan?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang didirikan pada tanggal 2 Februari 1982.",
+        "UNSIKA mulai berdiri sejak 2 Februari 1982.",
+        "Tanggal pendirian UNSIKA adalah 2 Februari 1982.",
+        "UNSIKA resmi didirikan pada 2 Februari 1982 sebagai perguruan tinggi swasta.",
+        "UNSIKA telah ada sejak 2 Februari 1982.",
+        "2 Februari 1982 adalah tanggal berdirinya Universitas Singaperbangsa Karawang.",
+        "UNSIKA berdiri pada awal Februari tahun 1982.",
+        "Universitas Singaperbangsa Karawang mulai beroperasi sejak tahun 1982.",
+        "UNSIKA sudah berdiri sejak 2 Februari 1982.",
+        "UNSIKA mulai eksis di dunia pendidikan sejak tahun 1982."
+      ]
+    },
+    {
+      "tag": "visi_misi",
+      "patterns": [
+        "Apa visi dan misi Universitas Singaperbangsa Karawang?",
+        "Visi dan misi UNSIKA apa?",
+        "Apa tujuan dan misi dari UNSIKA?",
+        "Coba jelaskan visi misi UNSIKA.",
+        "Visi UNSIKA itu apa?",
+        "Misi Universitas Singaperbangsa Karawang apa saja?",
+        "Apa saja misi UNSIKA?",
+        "UNSIKA punya visi dan misi seperti apa?",
+        "Visi misi kampus UNSIKA bagaimana?",
+        "Jelaskan visi dan misi Universitas Singaperbangsa Karawang."
+      ],
+      "responses": [
+        "Visi UNSIKA adalah: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Misi UNSIKA antara lain: 1) Menyiapkan sumber daya manusia yang profesional dan berakhlak mulia; 2) Mengembangkan IPTEKS dan seni yang bermanfaat; 3) Melaksanakan pengabdian masyarakat; dan 4) Menciptakan sistem pengelolaan tridharma yang akuntabel.",
+        "UNSIKA memiliki visi menjadi institusi yang inovatif, kompetitif, dan unggul dengan menjunjung tinggi budaya bangsa.",
+        "Misi UNSIKA meliputi pengembangan sumber daya manusia, pengembangan ilmu pengetahuan dan teknologi, pengabdian kepada masyarakat, serta tata kelola yang baik.",
+        "Visinya adalah 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa', sedangkan misinya mencakup pendidikan, penelitian, pengabdian, dan tata kelola yang baik.",
+        "Visi UNSIKA mencerminkan komitmen untuk menjadi perguruan tinggi yang unggul dan menjunjung tinggi nilai-nilai budaya bangsa.",
+        "Misi UNSIKA: Mendidik generasi profesional, membangun ilmu dan teknologi, mengabdi kepada masyarakat, serta menciptakan sistem manajemen kampus yang baik.",
+        "Tujuan UNSIKA tercermin dalam visinya yang inovatif dan misinya dalam pengembangan SDM, IPTEKS, dan pengabdian masyarakat.",
+        "Dengan visi yang progresif dan misi yang menyeluruh, UNSIKA berkomitmen menjadi universitas yang berdaya saing tinggi.",
+        "Visi: Inovatif, kompetitif, unggul; Misi: Pendidikan berkualitas, riset bermanfaat, pengabdian aktif, dan manajemen yang akuntabel."
+      ]
+    },
+    {
+      "tag": "rektorat",
+      "patterns": [
+        "Siapa rektor Universitas Singaperbangsa Karawang saat ini?",
+        "Siapa nama rektor UNSIKA sekarang?",
+        "Siapa yang menjabat sebagai rektor UNSIKA?",
+        "Rektor UNSIKA sekarang siapa?",
+        "Siapa pimpinan tertinggi di UNSIKA?",
+        "Siapa rektor UNSIKA periode 2023–2027?",
+        "Siapa yang memimpin UNSIKA saat ini?",
+        "Siapa kepala universitas UNSIKA sekarang?",
+        "Siapa yang menjabat sebagai rektor Universitas Singaperbangsa Karawang?",
+        "Siapa nama rektor UNSIKA saat ini?"
+      ],
+      "responses": [
+        "Rektor Universitas Singaperbangsa Karawang saat ini adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc., yang menjabat untuk periode 2023–2027.",
+        "Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc. adalah rektor UNSIKA saat ini.",
+        "Rektor UNSIKA periode 2023–2027 adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc.",
+        "Pimpinan tertinggi di UNSIKA saat ini adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc.",
+        "UNSIKA saat ini dipimpin oleh Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc. sebagai rektor.",
+        "Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc. menjabat sebagai rektor Universitas Singaperbangsa Karawang.",
+        "Rektor UNSIKA saat ini adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc.",
+        "Pemimpin Universitas Singaperbangsa Karawang saat ini adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc.",
+        "Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc. adalah rektor yang sedang menjabat di UNSIKA.",
+        "Rektor UNSIKA saat ini adalah Prof. Dr. H. Ade Maman Suherman, S.H., M.Sc., menjabat sejak tahun 2023 hingga 2027."
+      ]
+    },
+    {
+      "tag": "akreditasi",
+      "patterns": [
+        "Apakah Universitas Singaperbangsa Karawang terakreditasi?",
+        "Akreditasi apa yang dimiliki oleh Universitas Singaperbangsa Karawang?",
+        "UNSIKA akreditasinya apa?",
+        "Apakah UNSIKA memiliki akreditasi?",
+        "Bagaimana status akreditasi UNSIKA?",
+        "UNSIKA terakreditasi oleh siapa?",
+        "Apa peringkat akreditasi UNSIKA?",
+        "Apakah akreditasi UNSIKA masih berlaku?",
+        "UNSIKA terakreditasi BAN-PT?",
+        "Status akreditasi Universitas Singaperbangsa Karawang?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) telah memperoleh akreditasi institusi dengan peringkat 'B' dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) berdasarkan SK No. 272/SK/BAN-PT/Akred/PT/IV/2019 yang berlaku sejak 23 April 2019 hingga 23 April 2024.",
+        "UNSIKA terakreditasi 'B' oleh BAN-PT, sesuai dengan SK No. 272/SK/BAN-PT/Akred/PT/IV/2019.",
+        "Akreditasi institusi UNSIKA saat ini adalah peringkat 'B', berlaku hingga 23 April 2024.",
+        "UNSIKA memiliki akreditasi institusi peringkat 'B' dari BAN-PT, berlaku dari 23 April 2019 hingga 23 April 2024.",
+        "Status akreditasi UNSIKA adalah 'B', sesuai dengan keputusan BAN-PT No. 272/SK/BAN-PT/Akred/PT/IV/2019.",
+        "UNSIKA telah terakreditasi dengan peringkat 'B' oleh BAN-PT sejak 23 April 2019.",
+        "Akreditasi UNSIKA saat ini adalah peringkat 'B', berlaku hingga 23 April 2024.",
+        "UNSIKA memperoleh akreditasi institusi 'B' dari BAN-PT berdasarkan SK No. 272/SK/BAN-PT/Akred/PT/IV/2019.",
+        "Peringkat akreditasi institusi UNSIKA adalah 'B', berlaku sejak 23 April 2019.",
+        "UNSIKA memiliki akreditasi institusi 'B' dari BAN-PT, berlaku hingga 23 April 2024."
+      ]
+    },
+    {
+      "tag": "kampus_cabang",
+      "patterns": [
+        "Apakah Universitas Singaperbangsa Karawang memiliki kampus cabang?",
+        "UNSIKA punya kampus cabang?",
+        "Apakah ada kampus lain selain kampus utama UNSIKA?",
+        "UNSIKA memiliki berapa kampus?",
+        "Apakah UNSIKA memiliki lebih dari satu kampus?",
+        "Dimana saja lokasi kampus UNSIKA?",
+        "Apakah UNSIKA memiliki kampus di luar Karawang?",
+        "UNSIKA punya cabang di daerah lain?",
+        "Apakah UNSIKA memiliki kampus cabang di kota lain?",
+        "Berapa jumlah kampus yang dimiliki UNSIKA?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) memiliki dua kampus yang berlokasi di Kabupaten Karawang, Jawa Barat.",
+        "UNSIKA memiliki dua kampus: Kampus I di Jl. HS. Ronggowaluyo, Puseurjaya, Telukjambe Timur, dan Kampus II di Jl. Lingkar Tanjungpura, Desa Margasari, Kecamatan Karawang Timur.",
+        "Selain kampus utama, UNSIKA memiliki Kampus II yang terletak di Jl. Lingkar Tanjungpura, Desa Margasari, Karawang Timur.",
+        "UNSIKA memiliki dua kampus yang keduanya berada di wilayah Kabupaten Karawang.",
+        "Kampus I UNSIKA berlokasi di Telukjambe Timur, sedangkan Kampus II berada di Karawang Timur.",
+        "UNSIKA tidak memiliki kampus cabang di luar Kabupaten Karawang.",
+        "Semua kampus UNSIKA terletak di Kabupaten Karawang, Jawa Barat.",
+        "UNSIKA memiliki dua kampus, keduanya berada di Karawang: Kampus I di Telukjambe Timur dan Kampus II di Karawang Timur.",
+        "UNSIKA memiliki dua kampus yang berlokasi di Kabupaten Karawang, yaitu Kampus I di Telukjambe Timur dan Kampus II di Karawang Timur.",
+        "UNSIKA memiliki dua kampus yang keduanya berada di Kabupaten Karawang, Jawa Barat."
+      ]
+    },
+    {
+      "tag": "kampus_tur",
+      "patterns": [
+        "Bagaimana cara mengunjungi kampus UNSIKA?",
+        "Apakah saya bisa melakukan tur kampus di UNSIKA?",
+        "Bagaimana prosedur kunjungan ke kampus UNSIKA?",
+        "Apakah UNSIKA menyediakan fasilitas tur kampus?",
+        "Saya ingin melihat-lihat kampus UNSIKA, bagaimana caranya?",
+        "Apakah ada jadwal tur kampus di UNSIKA?",
+        "Bagaimana cara mendaftar untuk tur kampus UNSIKA?",
+        "Apakah UNSIKA membuka kunjungan untuk umum?",
+        "Saya tertarik mengunjungi kampus UNSIKA, apa yang harus saya lakukan?",
+        "Apakah ada panduan untuk tur kampus di UNSIKA?"
+      ],
+      "responses": [
+        "Untuk mengunjungi kampus UNSIKA, Anda dapat menghubungi pihak Humas atau bagian layanan informasi melalui situs resmi UNSIKA di (https://www.unsika.ac.id) untuk informasi lebih lanjut.",
+        "UNSIKA menyambut kunjungan dari calon mahasiswa dan masyarakat umum. Silakan menghubungi bagian Humas untuk mengatur jadwal kunjungan.",
+        "Anda dapat mengatur kunjungan ke kampus UNSIKA dengan menghubungi bagian layanan informasi melalui kontak yang tersedia di situs resmi.",
+        "Untuk informasi mengenai tur kampus UNSIKA, silakan kunjungi situs resmi atau hubungi langsung bagian Humas universitas.",
+        "UNSIKA menyediakan fasilitas kunjungan kampus bagi yang berminat. Hubungi bagian layanan informasi untuk detail lebih lanjut.",
+        "Jika Anda ingin melihat-lihat kampus UNSIKA, disarankan untuk mengatur janji terlebih dahulu dengan menghubungi pihak universitas.",
+        "Untuk melakukan tur kampus di UNSIKA, silakan mendaftar melalui formulir yang tersedia di situs resmi atau hubungi bagian Humas.",
+        "UNSIKA membuka kesempatan bagi umum untuk mengunjungi kampus. Pastikan untuk mengatur jadwal terlebih dahulu dengan pihak universitas.",
+        "Anda dapat mengikuti tur kampus UNSIKA dengan menghubungi bagian layanan informasi dan mengatur jadwal kunjungan.",
+        "Untuk panduan tur kampus di UNSIKA, silakan kunjungi situs resmi atau hubungi bagian Humas untuk informasi lebih lanjut."
+      ]
+    },
+    {
+      "tag": "slogan",
+      "patterns": [
+        "Apa slogan Universitas Singaperbangsa Karawang?",
+        "Apa motto UNSIKA?",
+        "Slogan UNSIKA apa?",
+        "Apa semboyan dari UNSIKA?",
+        "Apa tagline Universitas Singaperbangsa Karawang?",
+        "UNSIKA memiliki slogan apa?",
+        "Apa moto resmi UNSIKA?",
+        "Slogan resmi Universitas Singaperbangsa Karawang apa?",
+        "Apa kalimat motto UNSIKA?",
+        "Apa semboyan resmi UNSIKA?"
+      ],
+      "responses": [
+        "Slogan resmi Universitas Singaperbangsa Karawang adalah: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "UNSIKA mengusung motto: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Semboyan UNSIKA adalah: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Tagline Universitas Singaperbangsa Karawang: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Moto resmi UNSIKA: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "UNSIKA memiliki slogan: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Kalimat motto UNSIKA adalah: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Semboyan resmi Universitas Singaperbangsa Karawang: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "UNSIKA mengadopsi slogan: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'.",
+        "Moto Universitas Singaperbangsa Karawang: 'Inovatif, kompetitif, dan unggul yang dijiwai budaya bangsa'."
+      ]
+    },
+    {
+      "tag": "brosur_kampus",
+      "patterns": [
+        "Apakah tersedia brosur kampus?",
+        "Di mana saya bisa mendapatkan brosur UNSIKA?",
+        "Apakah UNSIKA menyediakan brosur untuk calon mahasiswa?",
+        "Bagaimana cara mendapatkan brosur kampus UNSIKA?",
+        "Apakah ada brosur digital UNSIKA?",
+        "Saya ingin melihat brosur UNSIKA, di mana bisa mendapatkannya?",
+        "Apakah brosur kampus tersedia secara online?",
+        "Bisakah saya mengunduh brosur UNSIKA?",
+        "Apakah UNSIKA memiliki brosur PDF?",
+        "Di mana saya bisa melihat brosur program studi UNSIKA?"
+      ],
+      "responses": [
+        "UNSIKA menyediakan informasi lengkap mengenai program studi dan penerimaan mahasiswa baru melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Anda dapat mengakses informasi terkait brosur dan program studi UNSIKA melalui laman PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk mendapatkan brosur atau informasi detail mengenai UNSIKA, silakan kunjungi situs PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Informasi lengkap mengenai program studi dan penerimaan mahasiswa baru UNSIKA tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Silakan kunjungi situs PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id) untuk informasi terkait brosur dan program studi.",
+        "UNSIKA menyediakan informasi mengenai program studi dan penerimaan mahasiswa baru di situs PMB: [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk informasi lengkap mengenai program studi dan brosur UNSIKA, kunjungi [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Anda dapat menemukan informasi terkait brosur dan program studi UNSIKA di situs PMB: [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Silakan akses situs PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id) untuk informasi mengenai brosur dan program studi.",
+        "Informasi mengenai brosur dan program studi UNSIKA tersedia di laman PMB: [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "bahasa_perkuliahan",
+      "patterns": [
+        "Apa bahasa pengantar perkuliahan?",
+        "Bahasa apa yang digunakan dalam perkuliahan di UNSIKA?",
+        "Apakah perkuliahan di UNSIKA menggunakan bahasa Indonesia?",
+        "Apakah ada program studi yang menggunakan bahasa Inggris?",
+        "Bahasa pengantar kuliah di UNSIKA apa?",
+        "Perkuliahan di UNSIKA disampaikan dalam bahasa apa?",
+        "Apakah UNSIKA menyediakan program dengan bahasa pengantar Inggris?",
+        "Apakah ada kelas internasional di UNSIKA?",
+        "Bahasa utama yang digunakan dalam perkuliahan di UNSIKA?",
+        "Apakah UNSIKA menawarkan program studi dengan bahasa pengantar asing?"
+      ],
+      "responses": [
+        "Bahasa pengantar utama dalam perkuliahan di UNSIKA adalah Bahasa Indonesia.",
+        "Perkuliahan di UNSIKA umumnya disampaikan dalam Bahasa Indonesia.",
+        "UNSIKA menggunakan Bahasa Indonesia sebagai bahasa pengantar utama dalam proses perkuliahan.",
+        "Bahasa Indonesia merupakan bahasa utama yang digunakan dalam perkuliahan di UNSIKA.",
+        "Perkuliahan di UNSIKA dilaksanakan dengan menggunakan Bahasa Indonesia sebagai bahasa pengantar.",
+        "Bahasa pengantar perkuliahan di UNSIKA adalah Bahasa Indonesia.",
+        "UNSIKA menyelenggarakan perkuliahan dengan menggunakan Bahasa Indonesia sebagai bahasa utama.",
+        "Bahasa Indonesia digunakan sebagai bahasa pengantar dalam perkuliahan di UNSIKA.",
+        "Perkuliahan di UNSIKA menggunakan Bahasa Indonesia sebagai bahasa pengantar utama.",
+        "Bahasa utama dalam perkuliahan di UNSIKA adalah Bahasa Indonesia."
+      ]
+    },
+    {
+      "tag": "disabilitas",
+      "patterns": [
+        "Apakah Universitas Singaperbangsa Karawang ramah untuk difabel?",
+        "Apakah UNSIKA menyediakan fasilitas untuk penyandang disabilitas?",
+        "Bagaimana aksesibilitas bagi mahasiswa difabel di UNSIKA?",
+        "Apakah ada jalur khusus untuk difabel di kampus UNSIKA?",
+        "Apakah UNSIKA memiliki fasilitas ramah disabilitas?",
+        "Apakah kampus UNSIKA inklusif bagi penyandang disabilitas?",
+        "Apakah tersedia toilet khusus difabel di UNSIKA?",
+        "Apakah mahasiswa difabel mendapatkan dukungan di UNSIKA?",
+        "Apakah UNSIKA menyediakan layanan untuk mahasiswa berkebutuhan khusus?",
+        "Bagaimana UNSIKA mendukung mahasiswa dengan disabilitas?"
+      ],
+      "responses": [
+        "UNSIKA berkomitmen untuk menjadi kampus inklusif dengan menyediakan fasilitas ramah disabilitas, seperti jalur pejalan kaki yang dilengkapi atap pelindung, pagar pembatas, dan jalur pemandu untuk membantu mahasiswa tunanetra.",
+        "Kampus UNSIKA dilengkapi dengan fasilitas yang mendukung aksesibilitas bagi penyandang disabilitas, termasuk jalur khusus dan fasilitas lainnya.",
+        "UNSIKA menyediakan berbagai fasilitas untuk mendukung mahasiswa difabel, memastikan mereka dapat mengikuti perkuliahan dengan nyaman.",
+        "Fasilitas ramah disabilitas di UNSIKA mencakup jalur pejalan kaki yang dirancang khusus untuk memudahkan mobilitas penyandang disabilitas.",
+        "UNSIKA terus meningkatkan fasilitas dan layanan untuk mendukung inklusivitas bagi seluruh mahasiswa, termasuk yang berkebutuhan khusus.",
+        "Kampus UNSIKA memiliki komitmen terhadap kesetaraan akses bagi penyandang disabilitas melalui penyediaan fasilitas yang sesuai.",
+        "Mahasiswa difabel di UNSIKA mendapatkan dukungan melalui fasilitas yang dirancang untuk memenuhi kebutuhan mereka.",
+        "UNSIKA menyediakan layanan dan fasilitas yang mendukung mahasiswa dengan disabilitas agar dapat belajar dengan optimal.",
+        "Fasilitas di UNSIKA dirancang untuk memastikan kenyamanan dan aksesibilitas bagi semua mahasiswa, termasuk penyandang disabilitas.",
+        "UNSIKA berupaya menciptakan lingkungan kampus yang inklusif dan ramah bagi penyandang disabilitas melalui berbagai inisiatif dan fasilitas."
+      ]
+    },
+    {
+      "tag": "lingkungan",
+      "patterns": [
+        "Apakah universitas ini ramah lingkungan?",
+        "Apakah UNSIKA memiliki program lingkungan?",
+        "Bagaimana komitmen UNSIKA terhadap lingkungan?",
+        "Apakah UNSIKA melakukan kegiatan pelestarian lingkungan?",
+        "Apakah kampus UNSIKA mendukung keberlanjutan lingkungan?",
+        "Apakah ada inovasi ramah lingkungan di UNSIKA?",
+        "Apakah mahasiswa UNSIKA terlibat dalam kegiatan lingkungan?",
+        "Apakah UNSIKA memiliki program pengelolaan sampah?",
+        "Apakah UNSIKA menggunakan energi terbarukan?",
+        "Bagaimana UNSIKA menjaga kelestarian lingkungan?"
+      ],
+      "responses": [
+        "UNSIKA aktif dalam berbagai inisiatif ramah lingkungan, termasuk inovasi mahasiswa dalam pengelolaan limbah dan penggunaan energi terbarukan.",
+        "Mahasiswa UNSIKA telah menciptakan produk ramah lingkungan seperti Buwset, pengganti styrofoam berbahan dasar jerami padi dan tongkol jagung.",
+        "Program KKN UNSIKA melibatkan mahasiswa dalam proyek-proyek lingkungan, seperti pembuatan plang nama desa dari ekobrik untuk mengurangi limbah plastik.",
+        "UNSIKA mendukung kegiatan pelestarian lingkungan melalui pelatihan UMKM dalam produksi barang ramah lingkungan dan minim sampah.",
+        "Kampus UNSIKA berkomitmen terhadap keberlanjutan lingkungan dengan mengimplementasikan teknologi ramah lingkungan dalam berbagai aspek.",
+        "Mahasiswa dan dosen UNSIKA berkolaborasi dalam proyek-proyek inovatif yang mendukung pelestarian lingkungan dan keberlanjutan.",
+        "UNSIKA mengintegrasikan prinsip-prinsip ramah lingkungan dalam kurikulum dan kegiatan kampus untuk meningkatkan kesadaran lingkungan.",
+        "Kampus UNSIKA memiliki program pengelolaan sampah yang bertujuan untuk mengurangi dampak lingkungan dan mendukung daur ulang.",
+        "UNSIKA terus mengembangkan dan menerapkan solusi inovatif untuk mendukung keberlanjutan dan pelestarian lingkungan.",
+        "Melalui berbagai program dan inisiatif, UNSIKA menunjukkan komitmennya dalam menjaga kelestarian lingkungan dan mendukung pembangunan berkelanjutan."
+      ]
+    },
+    {
+      "tag": "prosedur_pendaftaran",
+      "patterns": [
+        "Bagaimana prosedur pendaftaran mahasiswa baru?",
+        "Apa langkah-langkah mendaftar di UNSIKA?",
+        "Bagaimana cara mendaftar ke UNSIKA?",
+        "Apa saja tahapan pendaftaran di UNSIKA?",
+        "Bagaimana alur pendaftaran mahasiswa baru UNSIKA?",
+        "Apa prosedur pendaftaran jalur mandiri di UNSIKA?",
+        "Bagaimana cara mendaftar melalui jalur SNBP di UNSIKA?",
+        "Bagaimana proses pendaftaran jalur SNBT di UNSIKA?",
+        "Apa saja dokumen yang diperlukan untuk pendaftaran di UNSIKA?",
+        "Bagaimana cara mengisi formulir pendaftaran UNSIKA?"
+      ],
+      "responses": [
+        "Prosedur pendaftaran mahasiswa baru UNSIKA tergantung pada jalur yang dipilih. Informasi lengkap dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk mendaftar di UNSIKA, calon mahasiswa perlu mengikuti tahapan sesuai jalur penerimaan yang dipilih. Detail prosedur tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Langkah-langkah pendaftaran di UNSIKA meliputi pembuatan akun, pengisian formulir, dan unggah dokumen. Panduan lengkap dapat ditemukan di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Calon mahasiswa dapat mengikuti prosedur pendaftaran sesuai jalur yang diminati dengan mengunjungi [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id) untuk informasi lebih lanjut.",
+        "Pendaftaran di UNSIKA dilakukan secara daring melalui situs PMB. Prosedur lengkap tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk informasi mengenai prosedur pendaftaran jalur mandiri di UNSIKA, silakan kunjungi [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Prosedur pendaftaran jalur SNBP di UNSIKA dapat diakses melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Langkah-langkah pendaftaran jalur SNBT di UNSIKA tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Dokumen yang diperlukan untuk pendaftaran di UNSIKA dapat dilihat pada panduan di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Cara mengisi formulir pendaftaran UNSIKA dijelaskan secara rinci di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "pembukaan_pendaftaran",
+      "patterns": [
+        "Kapan pendaftaran dibuka dan ditutup?",
+        "Apa jadwal pendaftaran mahasiswa baru UNSIKA?",
+        "Kapan pendaftaran jalur SNBP dibuka?",
+        "Kapan pendaftaran jalur SNBT dibuka?",
+        "Kapan pendaftaran jalur mandiri dibuka?",
+        "Berapa lama periode pendaftaran di UNSIKA?",
+        "Kapan batas akhir pendaftaran UNSIKA?",
+        "Kapan pendaftaran jalur prestasi dibuka?",
+        "Kapan pendaftaran jalur SMMPTN dibuka?",
+        "Kapan pendaftaran jalur SPAN-PTKIN dibuka?"
+      ],
+      "responses": [
+        "Jadwal pendaftaran mahasiswa baru UNSIKA tahun 2025 bervariasi tergantung jalur penerimaan. Informasi lengkap dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk mengetahui jadwal pendaftaran masing-masing jalur di UNSIKA, silakan kunjungi [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Pendaftaran jalur SNBP UNSIKA biasanya dibuka pada awal tahun. Detail jadwal dapat ditemukan di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jadwal pendaftaran jalur SNBT di UNSIKA tersedia di situs resmi PMB: [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk informasi mengenai pembukaan pendaftaran jalur mandiri UNSIKA, silakan cek [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Periode pendaftaran di UNSIKA berbeda-beda untuk setiap jalur. Informasi lengkap dapat diakses di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Batas akhir pendaftaran UNSIKA tergantung pada jalur yang dipilih. Detailnya tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Pendaftaran jalur prestasi UNSIKA memiliki jadwal khusus. Silakan kunjungi [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id) untuk informasi lebih lanjut.",
+        "Jadwal pendaftaran jalur SMMPTN di UNSIKA dapat dilihat di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Informasi mengenai pembukaan pendaftaran jalur SPAN-PTKIN di UNSIKA tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "jalur_penerimaan",
+      "patterns": [
+        "Apa saja jalur penerimaan yang tersedia?",
+        "Jalur apa saja yang dibuka oleh UNSIKA?",
+        "Apa saja pilihan jalur masuk UNSIKA?",
+        "Berapa banyak jalur penerimaan di UNSIKA?",
+        "Apa saja jalur seleksi mahasiswa baru UNSIKA?",
+        "UNSIKA membuka jalur apa saja untuk pendaftaran?",
+        "Apa perbedaan jalur SNBP dan SNBT di UNSIKA?",
+        "Apakah UNSIKA memiliki jalur mandiri?",
+        "Apa itu jalur SMMPTN di UNSIKA?",
+        "Apakah ada jalur prestasi di UNSIKA?"
+      ],
+      "responses": [
+        "UNSIKA membuka beberapa jalur penerimaan mahasiswa baru, antara lain: SNBP, SNBT, Seleksi Mandiri Berbasis Prestasi, SMMPTN-Barat, SPAN-PTKIN, dan UM-PTKIN. Informasi lengkap dapat diakses di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jalur penerimaan di UNSIKA meliputi jalur nasional seperti SNBP dan SNBT, serta jalur mandiri seperti Seleksi Mandiri Berbasis Prestasi dan SMMPTN-Barat. Detailnya tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA menyediakan berbagai jalur masuk, termasuk jalur prestasi dan jalur tes. Informasi lebih lanjut dapat ditemukan di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Calon mahasiswa dapat memilih jalur penerimaan yang sesuai di UNSIKA, seperti SNBP, SNBT, dan jalur mandiri. Detailnya tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk informasi lengkap mengenai jalur penerimaan di UNSIKA, silakan kunjungi situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA membuka jalur penerimaan melalui SNBP, SNBT, dan jalur mandiri seperti SMMPTN-Barat. Informasi lengkap dapat diakses di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Perbedaan antara jalur SNBP dan SNBT di UNSIKA terletak pada metode seleksi. SNBP berdasarkan prestasi akademik, sedangkan SNBT melalui tes. Detailnya tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA memiliki jalur mandiri untuk penerimaan mahasiswa baru. Informasi lengkap mengenai jalur ini dapat ditemukan di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jalur SMMPTN di UNSIKA merupakan seleksi mandiri yang dilakukan bersama perguruan tinggi negeri di wilayah barat Indonesia. Detailnya tersedia di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA menyediakan jalur prestasi bagi calon mahasiswa yang memiliki pencapaian akademik atau non-akademik. Informasi lebih lanjut dapat diakses di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "pendaftaran_online",
+      "patterns": [
+        "Apakah tersedia pendaftaran online?",
+        "Bagaimana cara mendaftar secara online di UNSIKA?",
+        "Apakah pendaftaran UNSIKA dilakukan secara daring?",
+        "Di mana saya bisa mendaftar online untuk UNSIKA?",
+        "Apakah UNSIKA menyediakan sistem pendaftaran online?",
+        "Bagaimana prosedur pendaftaran online di UNSIKA?",
+        "Apakah pendaftaran online UNSIKA sudah dibuka?",
+        "Kapan pendaftaran online UNSIKA dimulai?",
+        "Apakah ada biaya untuk pendaftaran online UNSIKA?",
+        "Apa saja yang diperlukan untuk pendaftaran online UNSIKA?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menyediakan pendaftaran online melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Calon mahasiswa dapat mendaftar secara online melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Pendaftaran UNSIKA dilakukan secara daring melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Anda dapat mendaftar online untuk UNSIKA melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA menyediakan sistem pendaftaran online yang dapat diakses melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Prosedur pendaftaran online di UNSIKA dapat ditemukan di situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Pendaftaran online UNSIKA telah dibuka. Informasi lebih lanjut dapat diakses melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jadwal pendaftaran online UNSIKA dapat ditemukan di situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Biaya pendaftaran online UNSIKA dapat dilihat di situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Dokumen yang diperlukan untuk pendaftaran online UNSIKA dapat ditemukan di situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "persyaratan_s1",
+      "patterns": [
+        "Apa saja syarat masuk program S1?",
+        "Bagaimana cara mendaftar program S1 di UNSIKA?",
+        "Apa persyaratan untuk masuk program S1 UNSIKA?",
+        "Apa saja dokumen yang diperlukan untuk program S1?",
+        "Apakah ada tes untuk masuk program S1?",
+        "Bagaimana prosedur pendaftaran program S1?",
+        "Apa saja syarat umum untuk program S1?",
+        "Apakah ada batasan usia untuk program S1?",
+        "Apakah lulusan SMA/SMK bisa mendaftar program S1?",
+        "Apakah ada jalur khusus untuk program S1?"
+      ],
+      "responses": [
+        "Untuk masuk program S1 UNSIKA, calon mahasiswa harus memenuhi persyaratan umum dan khusus sesuai dengan jalur yang dipilih. Informasi lengkap dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Calon mahasiswa dapat mendaftar program S1 di UNSIKA melalui situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id), dengan memenuhi persyaratan yang ditentukan.",
+        "Persyaratan untuk masuk program S1 UNSIKA meliputi kelulusan dari pendidikan menengah dan memenuhi kriteria khusus sesuai dengan jalur penerimaan yang dipilih.",
+        "Dokumen yang diperlukan untuk program S1 di UNSIKA antara lain ijazah, transkrip nilai, dan dokumen pendukung lainnya sesuai dengan jalur penerimaan yang dipilih.",
+        "Beberapa jalur penerimaan program S1 di UNSIKA memerlukan tes seleksi. Informasi mengenai tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Prosedur pendaftaran program S1 di UNSIKA dapat ditemukan di situs resmi PMB di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id), sesuai dengan jalur penerimaan yang dipilih.",
+        "Syarat umum untuk program S1 di UNSIKA meliputi kelulusan dari pendidikan menengah dan memenuhi kriteria khusus sesuai dengan jalur penerimaan yang dipilih.",
+        "Batasan usia untuk program S1 di UNSIKA dapat berbeda-beda tergantung pada jalur penerimaan yang dipilih. Informasi lebih lanjut dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Lulusan SMA/SMK dapat mendaftar program S1 di UNSIKA melalui jalur penerimaan yang sesuai. Informasi lengkap dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "UNSIKA menyediakan berbagai jalur penerimaan untuk program S1, termasuk jalur prestasi, jalur tes, dan jalur mandiri. Informasi lengkap dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "tes_masuk",
+      "patterns": [
+        "Apakah ada tes masuk?",
+        "Bagaimana cara mengikuti tes masuk UNSIKA?",
+        "Apa jenis tes yang digunakan untuk seleksi?",
+        "Apakah tes masuk UNSIKA berbasis komputer?",
+        "Di mana lokasi tes masuk UNSIKA?",
+        "Kapan jadwal tes masuk UNSIKA?",
+        "Apa materi yang diujikan dalam tes masuk?",
+        "Apakah ada biaya untuk mengikuti tes masuk?",
+        "Bagaimana cara mempersiapkan tes masuk?",
+        "Apakah tes masuk UNSIKA wajib diikuti?"
+      ],
+      "responses": [
+        "Beberapa jalur penerimaan di UNSIKA memerlukan tes seleksi. Informasi mengenai tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Calon mahasiswa dapat mengikuti tes masuk UNSIKA sesuai dengan jalur penerimaan yang dipilih. Informasi lengkap dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jenis tes yang digunakan untuk seleksi di UNSIKA dapat berbeda-beda tergantung pada jalur penerimaan yang dipilih. Informasi lebih lanjut dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Tes masuk UNSIKA dapat berbasis komputer, tergantung pada jalur penerimaan yang dipilih. Informasi mengenai hal ini dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Lokasi tes masuk UNSIKA ditentukan berdasarkan jalur penerimaan yang dipilih. Informasi mengenai lokasi tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Jadwal tes masuk UNSIKA dapat berbeda-beda tergantung pada jalur penerimaan yang dipilih. Informasi lengkap mengenai jadwal tes dapat diakses melalui situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Materi yang diujikan dalam tes masuk UNSIKA dapat berbeda-beda tergantung pada jalur penerimaan yang dipilih. Informasi mengenai materi tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Beberapa jalur penerimaan di UNSIKA memerlukan biaya untuk mengikuti tes masuk. Informasi mengenai biaya tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Untuk mempersiapkan tes masuk UNSIKA, calon mahasiswa dapat mempelajari materi yang relevan dengan program studi yang dipilih. Informasi mengenai materi tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id).",
+        "Tes masuk UNSIKA wajib diikuti untuk jalur penerimaan yang memerlukannya. Informasi mengenai kewajiban mengikuti tes dapat ditemukan di situs resmi PMB UNSIKA di [https://pmb.unsika.ac.id](https://pmb.unsika.ac.id)."
+      ]
+    },
+    {
+      "tag": "format_ujian",
+      "patterns": [
+        "Bagaimana format ujian masuk UNSIKA?",
+        "Apa jenis ujian yang digunakan untuk seleksi di UNSIKA?",
+        "Bagaimana format ujian SNBT di UNSIKA?",
+        "Bagaimana format ujian jalur mandiri UNSIKA?",
+        "Apakah UNSIKA menerima jalur SPAN-PTKIN?",
+        "Bagaimana ujian di jalur SPAN-PTKIN?",
+        "Apa materi ujian SNBT?",
+        "Apakah ada tes tulis di jalur mandiri?",
+        "Apakah ujian SNBT berbasis komputer?",
+        "Di mana lokasi ujian masuk UNSIKA?"
+      ],
+      "responses": [
+        "UNSIKA menerima mahasiswa melalui beberapa jalur seleksi, yaitu SNBT, jalur Mandiri, dan SPAN-PTKIN, dengan format ujian yang berbeda-beda sesuai jalurnya.",
+        "Untuk SNBT, ujian dilakukan secara nasional berbasis komputer dengan materi Tes Potensi Skolastik dan Tes Kompetensi Akademik sesuai program studi.",
+        "Jalur Mandiri di UNSIKA biasanya menggunakan ujian tulis yang diselenggarakan oleh universitas secara offline atau online, dengan materi yang disesuaikan program studi.",
+        "SPAN-PTKIN khusus untuk calon mahasiswa yang ingin masuk ke program studi keagamaan Islam, dengan seleksi berdasarkan prestasi akademik tanpa tes tulis.",
+        "Materi ujian SNBT meliputi Tes Potensi Skolastik, Tes Kompetensi Akademik Matematika, Bahasa Indonesia, dan Bahasa Inggris sesuai jurusan.",
+        "Jalur Mandiri bisa saja melibatkan tes tulis atau wawancara, tergantung program studi yang dipilih.",
+        "Ujian SNBT dilakukan secara online dengan sistem komputer yang terpusat dan serentak di seluruh Indonesia.",
+        "Lokasi ujian SNBT ditentukan oleh panitia pusat di berbagai kota, sedangkan jalur mandiri ujian dapat di kampus UNSIKA atau lokasi yang ditentukan.",
+        "SPAN-PTKIN menggunakan seleksi nilai rapor dan prestasi akademik tanpa ujian tertulis.",
+        "Informasi lengkap tentang jadwal dan tata cara ujian dapat diakses melalui situs resmi PMB UNSIKA."
+      ]
+    },
+    {
+      "tag": "jalur_prestasi",
+      "patterns": [
+        "Bisakah saya masuk UNSIKA melalui jalur prestasi?",
+        "Apa itu jalur prestasi di UNSIKA?",
+        "Bagaimana cara mendaftar melalui jalur prestasi?",
+        "Apa saja bidang prestasi yang diterima?",
+        "Apakah ada tes untuk jalur prestasi?",
+        "Apa syarat untuk jalur prestasi?",
+        "Apakah jalur prestasi terbuka untuk semua jurusan?",
+        "Bagaimana cara mengajukan portofolio prestasi?",
+        "Apakah ada batasan usia untuk jalur prestasi?",
+        "Apakah jalur prestasi hanya untuk lulusan baru?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menyediakan jalur prestasi bagi calon mahasiswa yang memiliki prestasi di bidang keagamaan Islam, olahraga, atau seni budaya.",
+        "Jalur prestasi di UNSIKA adalah jalur seleksi untuk calon mahasiswa yang memiliki prestasi di bidang keagamaan Islam, olahraga, atau seni budaya.",
+        "Calon mahasiswa dapat mendaftar melalui jalur prestasi dengan mengisi formulir pendaftaran secara online dan mengunggah dokumen pendukung yang diperlukan.",
+        "Bidang prestasi yang diterima melalui jalur prestasi di UNSIKA meliputi keagamaan Islam, olahraga, dan seni budaya.",
+        "Beberapa jalur prestasi di UNSIKA memerlukan tes wawancara dan uji keterampilan sebagai bagian dari seleksi.",
+        "Syarat untuk jalur prestasi di UNSIKA antara lain memiliki prestasi di bidang yang ditentukan, lulusan pendidikan menengah, dan memenuhi persyaratan administratif lainnya.",
+        "Jalur prestasi di UNSIKA terbuka untuk berbagai jurusan, tergantung pada bidang prestasi yang dimiliki oleh calon mahasiswa.",
+        "Calon mahasiswa dapat mengajukan portofolio prestasi dengan mengunggah sertifikat atau dokumen pendukung lainnya melalui sistem pendaftaran online.",
+        "Batasan usia untuk jalur prestasi di UNSIKA dapat berbeda-beda tergantung pada program studi yang dipilih. Informasi lebih lanjut dapat ditemukan di situs resmi PMB UNSIKA.",
+        "Jalur prestasi di UNSIKA terbuka untuk lulusan baru maupun lulusan sebelumnya, asalkan memenuhi persyaratan yang ditentukan."
+      ]
+    },
+    {
+      "tag": "nilai_raport",
+      "patterns": [
+        "Apakah nilai rapor memengaruhi seleksi di UNSIKA?",
+        "Bagaimana peran nilai rapor dalam seleksi?",
+        "Apakah ada batasan nilai rapor untuk diterima?",
+        "Berapa rata-rata nilai rapor yang dibutuhkan?",
+        "Apakah nilai rapor menjadi syarat utama?",
+        "Bagaimana cara meningkatkan peluang dengan nilai rapor?",
+        "Apakah nilai rapor digunakan untuk semua jalur?",
+        "Apakah nilai rapor penting untuk jalur prestasi?",
+        "Apakah nilai rapor mempengaruhi peluang lulus?",
+        "Bagaimana cara mengetahui nilai rapor yang diterima?"
+      ],
+      "responses": [
+        "Ya, nilai rapor menjadi salah satu komponen penting dalam seleksi di UNSIKA, terutama untuk jalur SNBP.",
+        "Nilai rapor digunakan untuk menilai prestasi akademik calon mahasiswa selama di sekolah menengah.",
+        "Setiap program studi di UNSIKA memiliki standar nilai rapor yang berbeda-beda. Informasi lengkap dapat ditemukan di situs resmi PMB UNSIKA.",
+        "Rata-rata nilai rapor yang dibutuhkan untuk diterima di UNSIKA bervariasi tergantung pada program studi yang dipilih.",
+        "Nilai rapor merupakan salah satu syarat utama dalam jalur SNBP di UNSIKA.",
+        "Untuk meningkatkan peluang, calon mahasiswa disarankan untuk menjaga konsistensi nilai rapor dan meningkatkan prestasi akademik.",
+        "Nilai rapor digunakan untuk jalur SNBP dan beberapa jalur mandiri di UNSIKA.",
+        "Nilai rapor juga menjadi pertimbangan dalam jalur prestasi, terutama yang berkaitan dengan prestasi akademik.",
+        "Nilai rapor yang baik dapat meningkatkan peluang diterima di UNSIKA, namun tidak menjamin kelulusan.",
+        "Informasi mengenai nilai rapor yang diterima dapat ditemukan di situs resmi PMB UNSIKA atau dengan menghubungi panitia seleksi."
+      ]
+    },
+    {
+      "tag": "mahasiswa_pindahan",
+      "patterns": [
+        "Apakah UNSIKA menerima mahasiswa pindahan?",
+        "Bagaimana cara mendaftar sebagai mahasiswa pindahan?",
+        "Apa syarat untuk pindah ke UNSIKA?",
+        "Apakah ada tes untuk mahasiswa pindahan?",
+        "Bagaimana proses seleksi untuk mahasiswa pindahan?",
+        "Apakah ada batasan usia untuk mahasiswa pindahan?",
+        "Apakah mahasiswa pindahan harus mengikuti ujian?",
+        "Apa saja dokumen yang diperlukan untuk pindah?",
+        "Apakah ada biaya untuk mahasiswa pindahan?",
+        "Bagaimana cara mengetahui status pendaftaran pindahan?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menerima mahasiswa pindahan dari perguruan tinggi lain.",
+        "Calon mahasiswa pindahan dapat mendaftar dengan mengisi formulir pendaftaran dan melengkapi dokumen yang diperlukan.",
+        "Syarat untuk pindah ke UNSIKA antara lain memiliki IPK minimal tertentu, transkrip nilai, dan surat keterangan pindah dari perguruan tinggi asal.",
+        "Beberapa program studi di UNSIKA mewajibkan mahasiswa pindahan untuk mengikuti ujian seleksi.",
+        "Proses seleksi untuk mahasiswa pindahan meliputi penilaian terhadap transkrip nilai dan hasil ujian seleksi, jika diperlukan.",
+        "Batasan usia untuk mahasiswa pindahan dapat berbeda-beda tergantung pada program studi yang dipilih.",
+        "Beberapa program studi di UNSIKA mewajibkan mahasiswa pindahan untuk mengikuti ujian seleksi.",
+        "Dokumen yang diperlukan untuk pindah antara lain transkrip nilai, surat keterangan pindah, dan dokumen pendukung lainnya.",
+        "Beberapa program studi di UNSIKA memerlukan biaya untuk mahasiswa pindahan. Informasi mengenai biaya dapat ditemukan di situs resmi PMB UNSIKA.",
+        "Status pendaftaran pindahan dapat diketahui dengan mengunjungi situs resmi PMB UNSIKA atau menghubungi panitia seleksi."
+      ]
+    },
+    {
+      "tag": "mahasiswa_asing",
+      "patterns": [
+        "Apakah UNSIKA menerima mahasiswa asing?",
+        "Bisakah mahasiswa luar negeri mendaftar di UNSIKA?",
+        "Bagaimana prosedur pendaftaran untuk mahasiswa asing?",
+        "Apakah ada program khusus untuk mahasiswa internasional?",
+        "Mahasiswa asing bisa kuliah di UNSIKA?",
+        "Bagaimana cara mahasiswa asing masuk UNSIKA?",
+        "Apakah mahasiswa asing perlu tes bahasa?",
+        "UNSIKA menerima pelajar dari luar negeri?",
+        "Apakah ada persyaratan khusus untuk mahasiswa asing?",
+        "Bagaimana pendaftaran untuk mahasiswa internasional?"
+      ],
+      "responses": [
+        "UNSIKA menerima mahasiswa asing dengan prosedur pendaftaran khusus dan persyaratan tambahan seperti kemampuan bahasa Indonesia.",
+        "Mahasiswa asing dapat mendaftar melalui program kerjasama internasional atau jalur reguler dengan melengkapi dokumen yang diperlukan.",
+        "Untuk mahasiswa asing, biasanya diperlukan sertifikat kemampuan bahasa Indonesia dan dokumen akademik yang diterjemahkan resmi.",
+        "UNSIKA menyediakan layanan pendampingan bagi mahasiswa asing untuk memudahkan proses akademik dan adaptasi.",
+        "Proses pendaftaran mahasiswa asing mengikuti aturan yang ditetapkan Kementerian Pendidikan dan Kebudayaan RI.",
+        "Mahasiswa asing dapat menghubungi kantor International Office UNSIKA untuk informasi pendaftaran lebih lengkap.",
+        "Beberapa program studi di UNSIKA terbuka untuk mahasiswa internasional dengan kuota tertentu.",
+        "Mahasiswa asing wajib mengikuti wawancara dan/atau tes kemampuan bahasa sebelum diterima.",
+        "UNSIKA mendukung pertukaran pelajar dan program internasional dengan berbagai universitas mitra.",
+        "Untuk informasi pendaftaran mahasiswa asing, silakan kunjungi situs resmi UNSIKA atau hubungi langsung bagian akademik."
+      ]
+    },
+    {
+      "tag": "persiapan_dokumen",
+      "patterns": [
+        "Dokumen apa saja yang harus disiapkan untuk mendaftar?",
+        "Apa syarat dokumen pendaftaran mahasiswa baru?",
+        "Dokumen pendaftaran mahasiswa S1 di UNSIKA?",
+        "Apa saja persyaratan dokumen pendaftaran kuliah?",
+        "Dokumen apa yang diperlukan saat daftar UNSIKA?",
+        "Syarat administrasi pendaftaran di UNSIKA?",
+        "Dokumen wajib untuk calon mahasiswa baru?",
+        "Apa dokumen yang harus dibawa saat pendaftaran?",
+        "Bagaimana daftar dokumen pendaftaran UNSIKA?",
+        "Apa saja berkas yang perlu dilengkapi untuk masuk UNSIKA?"
+      ],
+      "responses": [
+        "Dokumen yang harus disiapkan biasanya meliputi fotokopi ijazah terakhir, nilai rapor, KTP, pas foto terbaru, dan surat rekomendasi jika diperlukan.",
+        "Calon mahasiswa juga harus melengkapi formulir pendaftaran dan bukti pembayaran biaya pendaftaran.",
+        "Untuk pendaftaran program S1, persyaratan dokumen dapat berbeda tergantung jalur masuk yang dipilih.",
+        "Pastikan semua dokumen sudah dilegalisir dan dalam format yang sesuai sebelum diserahkan.",
+        "Dokumen tambahan seperti sertifikat prestasi atau surat keterangan sehat juga bisa diperlukan tergantung program studi.",
+        "Sebaiknya cek pengumuman resmi dari panitia penerimaan mahasiswa baru UNSIKA untuk daftar dokumen lengkap.",
+        "Dokumen asli dan fotokopi harus dibawa saat verifikasi berkas di kampus.",
+        "Untuk pendaftaran online, dokumen biasanya diupload dalam format PDF sesuai instruksi.",
+        "Persiapkan dokumen pendukung lainnya seperti Kartu Keluarga jika diminta.",
+        "Jika ada pertanyaan terkait dokumen, kamu bisa menghubungi bagian akademik atau pmb UNSIKA."
+      ]
+    },
+    {
+      "tag": "hasil_seleksi",
+      "patterns": [
+        "Bagaimana cara mengetahui hasil seleksi?",
+        "Kapan pengumuman hasil seleksi mahasiswa baru?",
+        "Dimana saya bisa cek hasil seleksi UNSIKA?",
+        "Bagaimana pengumuman kelulusan seleksi masuk?",
+        "Apakah hasil seleksi diumumkan online?",
+        "Bagaimana proses pengumuman hasil ujian masuk?",
+        "Kapan saya tahu apakah lolos seleksi?",
+        "Bagaimana cara melihat hasil tes masuk UNSIKA?",
+        "Apakah ada notifikasi hasil seleksi lewat email?",
+        "Dimana pengumuman resmi hasil pendaftaran UNSIKA?"
+      ],
+      "responses": [
+        "Hasil seleksi mahasiswa baru biasanya diumumkan melalui situs resmi UNSIKA pada tanggal yang telah ditentukan.",
+        "Calon mahasiswa dapat mengecek hasil seleksi dengan memasukkan nomor pendaftaran di portal PMB UNSIKA.",
+        "Pengumuman juga bisa diakses melalui media sosial resmi UNSIKA atau melalui pengumuman di kampus.",
+        "UNSIKA biasanya mengirim notifikasi via email atau SMS kepada calon mahasiswa yang diterima.",
+        "Jika lulus seleksi, kamu akan mendapatkan informasi langkah selanjutnya untuk registrasi dan daftar ulang.",
+        "Pastikan selalu memantau situs resmi dan email yang digunakan saat mendaftar agar tidak terlewat pengumuman.",
+        "Pengumuman hasil seleksi biasanya berlangsung beberapa minggu setelah ujian atau masa pendaftaran berakhir.",
+        "Jika ada kendala saat pengecekan hasil seleksi, kamu bisa menghubungi kontak layanan PMB UNSIKA.",
+        "Jangan lupa simpan bukti pengumuman hasil seleksi sebagai persyaratan daftar ulang.",
+        "Informasi lengkap mengenai hasil seleksi bisa ditemukan di website pendaftaran mahasiswa baru UNSIKA."
+      ]
+    },
+    {
+      "tag": "beasiswa",
+      "patterns": [
+        "Apakah tersedia jalur beasiswa saat pendaftaran?",
+        "Bagaimana cara mendapatkan beasiswa di UNSIKA?",
+        "Apakah UNSIKA menyediakan beasiswa untuk mahasiswa baru?",
+        "Beasiswa apa saja yang ada di UNSIKA?",
+        "Bisakah saya mendaftar beasiswa saat daftar kuliah?",
+        "Apakah ada beasiswa prestasi di UNSIKA?",
+        "Bagaimana syarat mengajukan beasiswa di UNSIKA?",
+        "Apakah beasiswa hanya untuk mahasiswa berprestasi?",
+        "Kapan pendaftaran beasiswa dibuka?",
+        "Apakah UNSIKA menyediakan beasiswa untuk mahasiswa kurang mampu?"
+      ],
+      "responses": [
+        "UNSIKA menyediakan beberapa jenis beasiswa untuk mahasiswa baru dan aktif, antara lain:\n\n1. Beasiswa KIP Kuliah (Kartu Indonesia Pintar), beasiswa pemerintah untuk mahasiswa kurang mampu secara ekonomi.\n2. Beasiswa Prestasi Akademik, untuk mahasiswa dengan nilai rapor atau IPK tinggi.\n3. Beasiswa Bidikmisi, khusus bagi mahasiswa kurang mampu dengan prestasi akademik baik.\n4. Beasiswa Peningkatan Prestasi Akademik (PPA), yang diberikan setiap semester bagi mahasiswa berprestasi.\n5. Beasiswa Bantuan Biaya Pendidikan dari pemerintah atau lembaga swasta.\n\nCalon mahasiswa dapat mendaftar beasiswa bersamaan dengan proses pendaftaran atau mengajukan pada semester berjalan. Pastikan melengkapi dokumen persyaratan sesuai jenis beasiswa yang dituju.",
+        "Untuk informasi lengkap dan jadwal pendaftaran beasiswa, silakan kunjungi situs resmi UNSIKA atau hubungi biro kemahasiswaan.",
+        "Setiap jenis beasiswa memiliki persyaratan khusus, seperti KIP Kuliah memerlukan bukti tidak mampu dari pemerintah, sedangkan beasiswa prestasi memerlukan dokumen nilai rapor atau transkrip.",
+        "UNSIKA juga membuka beasiswa khusus bagi mahasiswa berprestasi di bidang olahraga, seni, dan kegiatan sosial.",
+        "Pastikan untuk selalu memantau pengumuman resmi tentang beasiswa agar tidak terlewat pendaftaran."
+      ]
+    },
+    {
+      "tag": "biaya",
+      "patterns": [
+        "Berapa biaya formulir pendaftaran",
+        "Berapa harga formulir pendaftaran di UNSIKA",
+        "Ada biaya daftar kuliah?",
+        "Biaya pendaftaran mahasiswa baru berapa?",
+        "Harga formulir daftar kuliah berapa?",
+        "Biaya registrasi pendaftaran di UNSIKA?",
+        "Formulir pendaftaran dikenakan biaya berapa?",
+        "Berapa ongkos daftar kuliah di UNSIKA?",
+        "Apakah ada biaya pendaftaran kuliah?",
+        "Biaya pengajuan formulir pendaftaran?"
+      ],
+      "responses": [
+        "Biaya formulir pendaftaran mahasiswa baru di UNSIKA biasanya sekitar Rp 200.000 sampai Rp 300.000.",
+        "Untuk biaya formulir pendaftaran di UNSIKA, calon mahasiswa perlu menyiapkan sekitar Rp 250.000.",
+        "Biaya pendaftaran di UNSIKA berkisar antara Rp 200 ribu hingga Rp 300 ribu, tergantung jenis pendaftaran.",
+        "Harga formulir pendaftaran adalah Rp 250.000, silakan cek update terbaru di situs resmi UNSIKA.",
+        "Biaya formulir pendaftaran tidak terlalu mahal, biasanya sekitar Rp 200 ribu.",
+        "Formulir pendaftaran dikenakan biaya sekitar Rp 250.000 untuk semua jalur penerimaan.",
+        "Biaya pendaftaran biasanya dibayarkan saat mendaftar online atau di loket kampus, sekitar Rp 250.000.",
+        "Biaya pendaftaran yang harus disiapkan calon mahasiswa UNSIKA sekitar Rp 200 sampai Rp 300 ribu.",
+        "Calon mahasiswa harus membayar biaya pendaftaran yang nominalnya kurang lebih Rp 250.000.",
+        "Untuk informasi biaya pendaftaran terbaru, selalu cek website resmi UNSIKA."
+      ]
+    },
+    {
+      "tag": "kuota",
+      "patterns": [
+        "Apakah ada kuota tiap program studi",
+        "Berapa kuota penerimaan mahasiswa baru per jurusan",
+        "Kuota mahasiswa per program studi di UNSIKA",
+        "Apakah kuota terbatas tiap jurusan",
+        "Kuota penerimaan mahasiswa di UNSIKA berapa?",
+        "Kuota mahasiswa baru di tiap fakultas ada?",
+        "Apakah ada batasan kuota mahasiswa baru?",
+        "Kuota mahasiswa tiap prodi di UNSIKA",
+        "Berapa maksimal mahasiswa baru per jurusan?",
+        "Kuota pendaftaran mahasiswa baru di UNSIKA"
+      ],
+      "responses": [
+        "Ya, setiap program studi memiliki kuota berbeda sesuai kapasitas. Contohnya:\n- Teknik Informatika: 150 mahasiswa\n- Manajemen: 120 mahasiswa\n- Akuntansi: 100 mahasiswa\n- Teknik Sipil: 80 mahasiswa\n- Pendidikan Bahasa Inggris: 70 mahasiswa\nKuota ini bisa berubah tiap tahun sesuai kebijakan fakultas dan kebutuhan.",
+        "Kuota mahasiswa baru di UNSIKA diatur per program studi, misalnya Teknik Informatika 150, Manajemen 120, Akuntansi 100, Teknik Sipil 80, dan Pendidikan Bahasa Inggris 70 mahasiswa per tahun.",
+        "UNSIKA menetapkan kuota penerimaan sebagai berikut:\n- Fakultas Teknik: total 400 mahasiswa\n- Fakultas Ekonomi dan Bisnis: 250 mahasiswa\n- Fakultas Keguruan dan Ilmu Pendidikan: 150 mahasiswa\nKuota ini disebar ke program studi di masing-masing fakultas.",
+        "Untuk menjaga kualitas, UNSIKA membatasi kuota penerimaan mahasiswa baru. Contohnya:\n- Teknik Informatika: 150\n- Sistem Informasi: 100\n- Manajemen: 120\n- Akuntansi: 100\n- Teknik Elektro: 70 mahasiswa.",
+        "Kuota maksimal mahasiswa baru di UNSIKA bervariasi per jurusan dan biasanya diumumkan pada saat pendaftaran dibuka.",
+        "Setiap program studi memiliki kuota tersendiri, dan calon mahasiswa dianjurkan mengecek pengumuman resmi untuk kuota terbaru.",
+        "Kuota ini disesuaikan dengan fasilitas dan kapasitas pengajar di masing-masing program studi. Contoh kuota:\n- Teknik Mesin: 90\n- Teknik Elektro: 70\n- Pendidikan Bahasa Indonesia: 60 mahasiswa.",
+        "Kuota mahasiswa baru tiap program studi di UNSIKA cukup ketat untuk menjaga kualitas pembelajaran dan fasilitas.",
+        "Maksimal penerimaan mahasiswa baru per program studi berkisar antara 50 hingga 150 mahasiswa, tergantung jurusan dan fakultas.",
+        "Untuk informasi kuota terbaru dan detail tiap program studi, silakan kunjungi situs resmi UNSIKA pada halaman penerimaan mahasiswa baru."
+      ]
+    },
+    {
+      "tag": "mahasiswa_internasional",
+      "patterns": [
+        "Apakah alumni SMA luar negeri bisa mendaftar",
+        "Bolehkah siswa dari luar negeri masuk UNSIKA",
+        "Bagaimana cara mendaftar untuk mahasiswa internasional",
+        "Apakah UNSIKA menerima mahasiswa internasional",
+        "Syarat masuk untuk lulusan sekolah luar negeri",
+        "Apakah ada jalur khusus untuk mahasiswa asing",
+        "Bisa daftar kalau lulus SMA di luar negeri?",
+        "Persyaratan mahasiswa asing di UNSIKA apa saja?",
+        "Apakah UNSIKA punya program untuk mahasiswa internasional?",
+        "Bagaimana proses pendaftaran mahasiswa luar negeri?"
+      ],
+      "responses": [
+        "UNSIKA menerima pendaftaran lulusan SMA dari luar negeri dengan dokumen yang sudah diterjemahkan dan dilegalisasi.",
+        "Mahasiswa internasional dapat mendaftar dengan mengikuti prosedur pendaftaran khusus yang tersedia.",
+        "Calon mahasiswa asing harus menyerahkan ijazah dan transkrip yang sudah diterjemahkan resmi.",
+        "UNSIKA menyediakan jalur pendaftaran khusus untuk mahasiswa internasional yang ingin kuliah di sini.",
+        "Pendaftaran mahasiswa asing biasanya memerlukan dokumen tambahan seperti surat izin belajar.",
+        "Mahasiswa luar negeri bisa mengikuti seleksi yang disesuaikan dengan ketentuan UNSIKA.",
+        "Ada pembimbing khusus untuk mahasiswa internasional agar proses pendaftaran berjalan lancar.",
+        "Informasi lengkap untuk mahasiswa asing dapat dilihat di laman resmi UNSIKA atau menghubungi kantor internasional.",
+        "Mahasiswa internasional disarankan mempersiapkan dokumen akademik dan bahasa sesuai ketentuan.",
+        "UNSIKA terbuka bagi lulusan luar negeri selama memenuhi persyaratan pendaftaran yang berlaku."
+      ]
+    },
+    {
+      "tag": "batas_usia",
+      "patterns": [
+        "Apakah ada batas usia untuk mendaftar",
+        "Batas maksimal umur pendaftar UNSIKA",
+        "Apakah ada batasan usia masuk kuliah",
+        "Usia maksimal mendaftar mahasiswa baru",
+        "Batas usia calon mahasiswa",
+        "Usia pendaftaran kuliah di UNSIKA berapa?",
+        "Apakah ada syarat usia untuk calon mahasiswa?",
+        "Apakah ada batas usia untuk jalur masuk tertentu?",
+        "Usia maksimum untuk masuk UNSIKA",
+        "Apakah orang tua bisa mendaftar kuliah?"
+      ],
+      "responses": [
+        "UNSIKA tidak menetapkan batas usia maksimal untuk mendaftar sebagai mahasiswa baru.",
+        "Calon mahasiswa dari berbagai usia dapat mendaftar, asalkan memenuhi persyaratan akademik.",
+        "Tidak ada batas usia khusus, jadi semua yang berminat bisa mendaftar.",
+        "Meski tidak ada batas usia, disarankan untuk mengikuti jalur pendaftaran sesuai kondisi.",
+        "UNSIKA terbuka untuk pendaftar dari segala usia yang ingin melanjutkan pendidikan.",
+        "Usia bukan penghalang untuk mendaftar selama persyaratan lain terpenuhi.",
+        "Beberapa program mungkin memiliki rekomendasi usia, tapi secara umum bebas.",
+        "Pastikan memeriksa syarat pendaftaran untuk jalur tertentu, terkadang ada batasan usia.",
+        "Calon mahasiswa senior pun dapat mendaftar dan mengikuti proses seleksi.",
+        "UNSIKA mendukung pembelajaran sepanjang hayat tanpa membatasi usia calon mahasiswa."
+      ]
+    },
+    {
+      "tag": "gelombang_pendaftaran",
+      "patterns": [
+        "Apakah ada gelombang pendaftaran tambahan",
+        "Apakah UNSIKA membuka pendaftaran gelombang kedua",
+        "Gelombang pendaftaran tambahan di UNSIKA ada tidak",
+        "Kapan gelombang pendaftaran berikutnya setelah yang pertama",
+        "Bisakah daftar di gelombang tambahan",
+        "UNSIKA ada gelombang pendaftaran kedua atau tidak",
+        "Informasi gelombang pendaftaran tambahan",
+        "Gelombang pendaftaran susulan ada tidak",
+        "Adakah pendaftaran lanjutan setelah gelombang awal",
+        "Apakah UNSIKA membuka pendaftaran lebih dari satu gelombang"
+      ],
+      "responses": [
+        "Ya, UNSIKA biasanya membuka gelombang pendaftaran tambahan setelah gelombang pertama, untuk memberikan kesempatan bagi calon mahasiswa yang belum mendaftar.",
+        "Gelombang pendaftaran tambahan biasanya diumumkan resmi di website UNSIKA setelah gelombang utama ditutup.",
+        "Informasi gelombang pendaftaran tambahan dapat dicek secara berkala di situs resmi UNSIKA.",
+        "UNSIKA menyediakan gelombang pendaftaran kedua atau gelombang susulan sebagai kesempatan tambahan bagi pendaftar.",
+        "Pendaftaran gelombang tambahan biasanya memiliki batas waktu dan kuota tertentu, jadi disarankan untuk segera mendaftar saat pengumuman dibuka.",
+        "Ada gelombang pendaftaran tambahan yang biasanya dibuka jika masih tersedia kuota pada beberapa program studi.",
+        "Calon mahasiswa dapat memanfaatkan gelombang pendaftaran kedua jika belum mendaftar pada gelombang pertama.",
+        "Pastikan untuk memantau pengumuman resmi UNSIKA untuk informasi terbaru terkait gelombang pendaftaran tambahan.",
+        "Gelombang pendaftaran tambahan bertujuan memberikan kesempatan lebih luas kepada calon mahasiswa yang belum mendaftar.",
+        "Jika Anda belum sempat mendaftar pada gelombang pertama, Anda dapat mencoba mendaftar pada gelombang tambahan sesuai jadwal yang diumumkan."
+      ]
+    },
+    {
+      "tag": "daftar_banyak_jurusan",
+      "patterns": [
+        "Bisakah mendaftar lebih dari satu jurusan",
+        "Apakah boleh daftar ke dua jurusan sekaligus",
+        "Bisa mendaftar di beberapa program studi sekaligus?",
+        "Apakah diperbolehkan daftar banyak jurusan",
+        "Bagaimana jika ingin daftar lebih dari satu jurusan",
+        "Apakah UNSIKA menerima pendaftaran multi jurusan",
+        "Bolehkah calon mahasiswa memilih dua jurusan saat daftar",
+        "Apakah bisa daftar ganda jurusan di UNSIKA",
+        "Apakah diperbolehkan daftar ke jurusan lebih dari satu",
+        "Bagaimana aturan pendaftaran untuk lebih dari satu jurusan"
+      ],
+      "responses": [
+        "Ya, UNSIKA memperbolehkan calon mahasiswa mendaftar lebih dari satu jurusan melalui jalur SNBP, SNBT, dan Mandiri.",
+        "Calon mahasiswa bisa mendaftar hingga dua jurusan sekaligus, khususnya pada jalur SNBP, SNBT, dan Mandiri.",
+        "Pendaftaran multi jurusan diperbolehkan lewat SNBP, SNBT, dan jalur Mandiri dengan memperhatikan aturan masing-masing jalur.",
+        "Anda dapat memilih lebih dari satu program studi saat mendaftar di UNSIKA melalui jalur SNBP, SNBT, dan Mandiri.",
+        "UNSIKA memberikan fleksibilitas untuk pendaftar memilih maksimal dua jurusan pada jalur SNBP, SNBT, dan Mandiri.",
+        "Pastikan mengikuti ketentuan masing-masing jalur pendaftaran saat memilih lebih dari satu jurusan.",
+        "Pendaftaran ke lebih dari satu jurusan dapat meningkatkan peluang diterima, selama mengikuti ketentuan yang berlaku.",
+        "Untuk jalur SNBP, SNBT, dan Mandiri, calon mahasiswa dapat mengisi pilihan dua jurusan sekaligus.",
+        "Calon mahasiswa disarankan memilih jurusan yang paling diminati sebagai prioritas pertama dan kedua.",
+        "Harap pastikan data pendaftaran benar dan sesuai karena pendaftaran ganda hanya berlaku pada jalur SNBP, SNBT, dan Mandiri."
+      ]
+    },
+    {
+      "tag": "program_studi",
+      "patterns": [
+        "Apa saja program studi yang tersedia di UNSIKA?",
+        "Daftar jurusan di UNSIKA apa saja?",
+        "Program studi yang ditawarkan oleh UNSIKA?",
+        "Jurusan apa yang ada di Universitas Singaperbangsa Karawang?",
+        "Apa pilihan prodi di UNSIKA?",
+        "UNSIKA memiliki jurusan apa saja?",
+        "Program studi di UNSIKA terdiri dari apa saja?",
+        "Apa saja jurusan yang bisa dipilih di UNSIKA?",
+        "UNSIKA menawarkan program studi apa saja?",
+        "Daftar lengkap program studi di UNSIKA?"
+      ],
+      "responses": [
+        "UNSIKA memiliki 9 fakultas dengan total 40 program studi yang mencakup jenjang D3, S1, S2, dan Profesi. [Sumber](https://www.unsika.ac.id/2023/08/program-sarjana-dan-magister.html)",
+        "Beberapa program studi di UNSIKA antara lain: Teknik Informatika, Manajemen, Ilmu Hukum, Agroteknologi, dan Pendidikan Bahasa Inggris.",
+        "Fakultas di UNSIKA meliputi: Fakultas Teknik, Fakultas Ekonomi, Fakultas Hukum, Fakultas Ilmu Komputer, Fakultas Ilmu Sosial dan Ilmu Politik, Fakultas Keguruan dan Ilmu Pendidikan, Fakultas Pertanian, Fakultas Agama Islam, dan Fakultas Ilmu Kesehatan.",
+        "Program studi di UNSIKA mencakup berbagai bidang seperti teknik, ekonomi, hukum, komputer, sosial politik, pendidikan, pertanian, agama Islam, dan kesehatan.",
+        "UNSIKA menawarkan program studi di jenjang Diploma, Sarjana, Magister, dan Profesi, termasuk D3 Akuntansi, S1 Teknik Industri, S2 Ilmu Hukum, dan Profesi Pendidikan Profesi Bidan.",
+        "Untuk informasi lengkap tentang program studi di UNSIKA, kunjungi [situs resmi UNSIKA](https://www.unsika.ac.id/2023/08/program-sarjana-dan-magister.html).",
+        "UNSIKA menyediakan program studi yang beragam untuk memenuhi kebutuhan pendidikan di berbagai bidang.",
+        "Calon mahasiswa dapat memilih dari berbagai program studi yang tersedia di UNSIKA sesuai minat dan bakat mereka.",
+        "Program studi di UNSIKA dirancang untuk menghasilkan lulusan yang kompeten dan siap bersaing di dunia kerja.",
+        "Dengan berbagai pilihan program studi, UNSIKA berkomitmen untuk memberikan pendidikan berkualitas kepada mahasiswanya."
+      ]
+    },
+    {
+      "tag": "jurusan_banyak_peminat",
+      "patterns": [
+        "Jurusan apa yang paling diminati di UNSIKA?",
+        "Program studi favorit di UNSIKA apa saja?",
+        "Jurusan dengan peminat terbanyak di UNSIKA?",
+        "Apa jurusan terpopuler di UNSIKA?",
+        "Jurusan apa yang paling banyak pendaftarnya di UNSIKA?",
+        "Program studi mana yang paling diminati di UNSIKA?",
+        "Jurusan dengan daya saing tinggi di UNSIKA?",
+        "Apa saja jurusan unggulan di UNSIKA?",
+        "Jurusan favorit calon mahasiswa di UNSIKA?",
+        "Program studi dengan peminat tertinggi di UNSIKA?"
+      ],
+      "responses": [
+        "Beberapa jurusan dengan peminat terbanyak di UNSIKA antara lain: Teknik Informatika, Teknik Industri, Agroteknologi, Ilmu Komunikasi, dan Manajemen. [Sumber](https://kbeonline.id/2025/02/26/5-jurusan-dengan-peminat-terbanyak-di-unsika-mana-yang-kamu-incar/)",
+        "Teknik Informatika menjadi salah satu jurusan favorit di UNSIKA dengan akreditasi B dari BAN-PT.",
+        "Jurusan Teknik Industri di UNSIKA juga memiliki banyak peminat dan telah terakreditasi B.",
+        "Agroteknologi merupakan jurusan favorit di Fakultas Pertanian UNSIKA dengan daya tampung 60 mahasiswa dan jumlah pelamar mencapai 393 orang pada tahun lalu.",
+        "Ilmu Komunikasi adalah salah satu program studi dengan peminat terbanyak di UNSIKA dan telah mendapatkan akreditasi B dari BAN-PT.",
+        "Manajemen menjadi incaran calon mahasiswa di UNSIKA dengan akreditasi B dari BAN-PT.",
+        "Jurusan-jurusan favorit di UNSIKA mencerminkan minat tinggi calon mahasiswa terhadap bidang teknologi, pertanian, komunikasi, dan manajemen.",
+        "Peminat tinggi pada jurusan-jurusan tersebut menunjukkan reputasi baik dan prospek karier yang menjanjikan bagi lulusannya.",
+        "Calon mahasiswa disarankan untuk mempertimbangkan jurusan-jurusan favorit ini jika sesuai dengan minat dan tujuan karier mereka.",
+        "Informasi lebih lanjut tentang jurusan dengan peminat terbanyak dapat ditemukan di [situs resmi UNSIKA](https://www.unsika.ac.id/)."
+      ]
+    },
+    {
+      "tag": "program_diploma",
+      "patterns": [
+        "Apakah tersedia program diploma?",
+        "UNSIKA punya program D3 gak?",
+        "Jurusan diploma apa yang ada di UNSIKA?",
+        "Adakah program studi D3 di UNSIKA?",
+        "Apakah UNSIKA membuka pendidikan vokasi?",
+        "Saya ingin daftar program D3, apakah bisa di UNSIKA?",
+        "Diploma UNSIKA apa saja?",
+        "Apakah tersedia D3 akuntansi di UNSIKA?",
+        "Ada program vokasi di UNSIKA?",
+        "Saya lulusan SMA, bisa langsung daftar ke D3 di UNSIKA?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menyediakan program diploma (D3) di beberapa jurusan seperti D3 Akuntansi dan D3 Perpajakan.",
+        "Program diploma di UNSIKA termasuk bagian dari pendidikan vokasi yang berorientasi pada keahlian praktis.",
+        "UNSIKA memiliki program studi D3 Akuntansi yang berada di bawah Fakultas Ekonomi dan Bisnis.",
+        "Program D3 dirancang untuk menyiapkan lulusan siap kerja dengan masa studi lebih singkat dibanding S1.",
+        "D3 Akuntansi merupakan salah satu program vokasi unggulan di UNSIKA.",
+        "Mahasiswa D3 di UNSIKA mendapatkan pelatihan terapan dan praktik kerja industri.",
+        "Program diploma cocok bagi kamu yang ingin cepat bekerja setelah lulus.",
+        "Untuk saat ini, pilihan program diploma di UNSIKA memang terbatas tapi berkualitas.",
+        "Informasi detail mengenai pendaftaran D3 bisa dilihat di website resmi UNSIKA.",
+        "Ya, lulusan SMA/SMK bisa langsung mendaftar ke program D3 di UNSIKA melalui jalur reguler."
+      ]
+    },
+    {
+      "tag": "program_pascasarjana",
+      "patterns": [
+        "Apakah tersedia program pascasarjana di UNSIKA?",
+        "UNSIKA punya program S2 gak?",
+        "Saya mau ambil S2, apakah bisa di UNSIKA?",
+        "Apa saja program magister di UNSIKA?",
+        "Apakah UNSIKA membuka program S2?",
+        "S2 Ilmu Hukum tersedia di UNSIKA?",
+        "Program studi pascasarjana UNSIKA apa saja?",
+        "Saya lulusan S1, bisa lanjut ke S2 di UNSIKA?",
+        "UNSIKA ada pendidikan magister?",
+        "Dimana saya bisa lihat info pascasarjana UNSIKA?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menyediakan program pascasarjana (S2) untuk beberapa bidang studi.",
+        "Program magister (S2) di UNSIKA meliputi Ilmu Hukum, Manajemen, dan Pendidikan Bahasa Indonesia.",
+        "UNSIKA terus mengembangkan program pascasarjana untuk memenuhi kebutuhan pendidikan lanjutan.",
+        "Pascasarjana UNSIKA memiliki fokus pada riset dan pengembangan akademik.",
+        "Program S2 di UNSIKA dirancang bagi lulusan S1 yang ingin melanjutkan studi ke jenjang lebih tinggi.",
+        "Magister Ilmu Hukum adalah salah satu program unggulan di Sekolah Pascasarjana UNSIKA.",
+        "Pendaftaran program pascasarjana dilakukan secara online di situs resmi UNSIKA.",
+        "Mahasiswa S2 di UNSIKA dibimbing oleh dosen bergelar doktor dan profesor.",
+        "Durasi studi S2 biasanya 4 semester dengan pilihan tesis di akhir program.",
+        "Informasi lengkap tentang pascasarjana UNSIKA bisa diakses di laman https://pascasarjana.unsika.ac.id."
+      ]
+    },
+    {
+      "tag": "perbedaan_s1_d3",
+      "patterns": [
+        "Apa perbedaan S1 dan D3?",
+        "Lebih baik S1 atau D3?",
+        "Perbedaan gelar S1 dan D3?",
+        "Mana yang lebih cepat, S1 atau D3?",
+        "Apakah D3 bisa lanjut ke S1?",
+        "S1 dan D3 itu beda apa ya?",
+        "Lama kuliah S1 dan D3 berapa tahun?",
+        "Gelar D3 apa ya?",
+        "S1 itu lebih tinggi dari D3?",
+        "Saya bingung pilih D3 atau S1, bedanya apa?"
+      ],
+      "responses": [
+        "S1 (Sarjana) biasanya ditempuh dalam waktu 4 tahun dan lebih fokus pada teori serta riset, sementara D3 (Diploma 3) lebih praktis dan ditempuh dalam waktu 3 tahun.",
+        "D3 dirancang untuk mencetak lulusan siap kerja, sedangkan S1 menyiapkan lulusan untuk karier profesional dan akademik.",
+        "Lulusan S1 mendapat gelar Sarjana (misalnya S.Kom, S.H., S.E.), sedangkan lulusan D3 mendapat gelar Ahli Madya (A.Md).",
+        "S1 lebih banyak mempelajari teori dan konsep mendalam, D3 lebih pada praktik kerja.",
+        "Durasi studi D3 adalah sekitar 6 semester, sedangkan S1 sekitar 8 semester.",
+        "D3 biasanya lebih cepat selesai dan langsung bisa kerja, tapi peluang naik jabatan kadang terbatas dibanding S1.",
+        "Jika kamu ingin langsung bekerja, D3 bisa jadi pilihan. Tapi jika ingin studi lanjut (S2), sebaiknya pilih S1.",
+        "D3 bisa melanjutkan ke S1 melalui program ekstensi atau alih jenjang.",
+        "Secara hierarki pendidikan, S1 memang lebih tinggi dari D3.",
+        "Pilihan antara S1 dan D3 tergantung pada tujuan karier dan kesiapan waktu studi kamu."
+      ]
+    },
+    {
+      "tag": "multi_jurusan",
+      "patterns": [
+        "Apakah bisa mengambil dua jurusan?",
+        "Bisa nggak ambil dua prodi sekaligus?",
+        "Saya ingin daftar dua jurusan, apakah memungkinkan?",
+        "Bisakah kuliah di dua program studi di UNSIKA?",
+        "Apakah diperbolehkan ambil double major?",
+        "Saya ingin ambil dua jurusan, bagaimana caranya?",
+        "Apakah UNSIKA mendukung kuliah lintas jurusan?",
+        "Apakah mahasiswa bisa kuliah di dua jurusan sekaligus?",
+        "Bagaimana kalau saya mau ambil prodi tambahan?",
+        "Apakah ada jalur khusus untuk multi jurusan?"
+      ],
+      "responses": [
+        "Ya, kamu bisa memilih dua jurusan saat mendaftar, tergantung pada jalur yang diikuti: SNBP, SNBT, atau Mandiri.",
+        "Pendaftaran dua jurusan dimungkinkan di jalur SNBT dan Mandiri dengan urutan prioritas jurusan 1 dan 2.",
+        "Melalui SNBP, kamu bisa memilih dua prodi di PTN yang sama atau berbeda, dengan salah satunya di domisili provinsi.",
+        "Jalur SNBT dan Mandiri juga memungkinkan kamu memilih lebih dari satu program studi, tergantung ketentuan kampus.",
+        "Meski bisa memilih dua jurusan saat pendaftaran, kamu hanya akan diterima di salah satu sesuai hasil seleksi.",
+        "UNSIKA mengikuti aturan nasional yang memperbolehkan pemilihan dua jurusan dalam beberapa jalur seleksi.",
+        "Jika ingin daftar dua jurusan, pastikan memahami syarat dan urutan prioritas saat memilih prodi.",
+        "Memilih dua jurusan bisa meningkatkan peluang diterima, asalkan keduanya sesuai dengan nilai akademikmu.",
+        "Pilih jurusan dengan bijak, karena hanya satu jurusan yang akan kamu tempuh bila diterima.",
+        "UNSIKA mendukung pendaftaran multi jurusan sesuai aturan SNBP, SNBT, dan seleksi Mandiri."
+      ]
+    },
+    {
+      "tag": "waktu_s1",
+      "patterns": [
+        "Berapa lama waktu kuliah untuk S1?",
+        "Berapa tahun kuliah S1?",
+        "Masa studi S1 berapa tahun?",
+        "Kapan lulus S1 biasanya?",
+        "S1 itu berapa semester?",
+        "Saya ingin tahu durasi kuliah S1",
+        "Berapa lama kuliah sampai sarjana?",
+        "S1 normalnya selesai kapan?",
+        "Apakah S1 bisa selesai lebih cepat?",
+        "Apakah ada batas maksimal masa studi S1?"
+      ],
+      "responses": [
+        "Program Sarjana (S1) di UNSIKA biasanya ditempuh selama 8 semester atau 4 tahun.",
+        "Durasi normal S1 adalah 4 tahun, namun bisa lebih cepat atau lebih lambat tergantung mahasiswa.",
+        "Lama studi maksimal untuk S1 di UNSIKA adalah 7 tahun atau 14 semester.",
+        "Banyak mahasiswa menyelesaikan studi S1 dalam waktu 4 tahun dengan SKS penuh tiap semester.",
+        "Beberapa mahasiswa yang aktif bisa lulus dalam waktu 3,5 tahun.",
+        "Keterlambatan studi bisa terjadi jika mengambil cuti atau mengulang mata kuliah.",
+        "S1 terdiri dari 144–150 SKS tergantung program studi.",
+        "Semester genap dan ganjil dijalankan setiap tahun akademik, masing-masing sekitar 6 bulan.",
+        "Waktu tempuh bisa dipersingkat dengan program semester pendek (SP) jika tersedia.",
+        "Pastikan memenuhi persyaratan kelulusan seperti skripsi dan KKN untuk lulus tepat waktu."
+      ]
+    },
+    {
+      "tag": "program_akselerasi",
+      "patterns": [
+        "Apakah ada program akselerasi?",
+        "Bisa lulus lebih cepat dari 4 tahun?",
+        "Adakah kelas percepatan untuk S1?",
+        "Apakah UNSIKA memiliki program akselerasi?",
+        "Saya ingin lulus lebih cepat, apakah bisa?",
+        "Apakah ada jalur cepat untuk sarjana?",
+        "Bolehkah mengambil lebih banyak SKS agar cepat lulus?",
+        "Bisa selesai S1 dalam 3 tahun?",
+        "Apa syarat lulus cepat di UNSIKA?",
+        "Bagaimana cara mengikuti program percepatan?"
+      ],
+      "responses": [
+        "UNSIKA belum memiliki program akselerasi formal, namun mahasiswa bisa mempercepat studi dengan mengambil maksimal SKS per semester.",
+        "Mahasiswa berprestasi dapat menyelesaikan kuliah lebih cepat jika memenuhi semua persyaratan akademik.",
+        "Beberapa mahasiswa lulus dalam 3,5 tahun dengan strategi pengambilan SKS penuh dan aktif mengikuti semester pendek.",
+        "Program akselerasi khusus belum diterapkan di semua program studi.",
+        "Dengan mengambil maksimal 24 SKS per semester dan mengikuti semester pendek, lulus lebih cepat sangat mungkin.",
+        "Diperlukan IPK tinggi dan izin dari dosen pembimbing untuk mengambil beban studi lebih dari 20 SKS.",
+        "Tidak ada jalur akselerasi khusus, namun kebijakan akademik memungkinkan percepatan bagi mahasiswa unggul.",
+        "Percepat studi bisa dilakukan dengan mengambil mata kuliah secara efisien sejak semester awal.",
+        "UNSIKA memberikan fleksibilitas SKS untuk mahasiswa dengan prestasi akademik yang baik.",
+        "Selesaikan skripsi lebih awal dan hindari mengulang mata kuliah untuk mendukung percepatan lulus."
+      ]
+    },
+    {
+      "tag": "semester_dimulai",
+      "patterns": [
+        "Kapan semester ganjil dimulai?",
+        "Semester genap mulai kapan?",
+        "Kapan awal tahun ajaran baru?",
+        "Kapan masuk kuliah semester ganjil?",
+        "Bulan apa semester genap dimulai?",
+        "Semester 1 biasanya mulai kapan di UNSIKA?",
+        "Kapan perkuliahan dimulai setelah libur panjang?",
+        "Kapan masa perkuliahan semester ganjil UNSIKA?",
+        "Kapan waktu masuk semester baru?",
+        "Apa jadwal dimulainya semester ganjil dan genap?"
+      ],
+      "responses": [
+        "Semester ganjil biasanya dimulai pada bulan Agustus atau awal September.",
+        "Semester genap umumnya dimulai pada Februari setiap tahunnya.",
+        "Awal tahun ajaran baru di UNSIKA dimulai sekitar pertengahan Agustus.",
+        "Semester ganjil dimulai setelah masa registrasi ulang selesai.",
+        "Kalender akademik UNSIKA menetapkan semester genap sekitar awal Februari.",
+        "Perkuliahan semester 1 biasanya dimulai Agustus bagi mahasiswa baru.",
+        "Setiap semester memiliki jeda libur sekitar 1 bulan sebelum dimulai kembali.",
+        "Jadwal semester bisa berubah mengikuti kalender akademik yang dirilis UNSIKA.",
+        "Informasi pasti biasanya diumumkan di laman resmi dan akun media sosial UNSIKA.",
+        "Cek kalender akademik terbaru UNSIKA untuk memastikan tanggal pastinya."
+      ]
+    },
+    {
+      "tag": "kelas_malam",
+      "patterns": [
+        "Apakah ada kelas malam di UNSIKA?",
+        "Bisa kuliah malam di Universitas Singaperbangsa Karawang?",
+        "Apakah UNSIKA menyediakan program kuliah malam?",
+        "Saya bekerja, apakah bisa ambil kelas malam?",
+        "Kelas malam tersedia untuk semua jurusan?",
+        "Apakah ada kelas malam untuk mahasiswa reguler?",
+        "Apakah kuliah malam dikenakan biaya tambahan?",
+        "Kelas malam jam berapa biasanya dimulai?",
+        "Jurusan apa saja yang tersedia untuk kelas malam?",
+        "Apakah bisa mengambil kuliah malam untuk program S1?"
+      ],
+      "responses": [
+        "Saat ini Universitas Singaperbangsa Karawang (UNSIKA) tidak menyediakan program kelas malam.",
+        "Maaf, UNSIKA belum membuka kelas malam untuk program S1 maupun D3.",
+        "UNSIKA hanya menyediakan program reguler dengan perkuliahan di pagi hingga sore hari.",
+        "Program kelas malam belum tersedia di UNSIKA. Semua kegiatan kuliah dilakukan pada jam operasional kampus.",
+        "Tidak tersedia kelas malam di UNSIKA, disarankan untuk mengikuti perkuliahan sesuai jadwal reguler.",
+        "Kelas malam belum menjadi bagian dari sistem perkuliahan di UNSIKA.",
+        "Untuk saat ini, UNSIKA belum menyelenggarakan perkuliahan pada malam hari.",
+        "Jika kamu bekerja, kamu bisa berkonsultasi dengan dosen atau prodi terkait fleksibilitas jadwal, namun kelas malam belum tersedia.",
+        "UNSIKA fokus pada penyelenggaraan kuliah reguler dan belum membuka jalur non-reguler atau kelas malam.",
+        "Tidak ada kelas malam di UNSIKA. Informasi resmi dapat dilihat di laman akademik kampus."
+      ]
+    },
+    {
+      "tag": "kelas_online",
+      "patterns": [
+        "Apakah tersedia kuliah full online?",
+        "Apakah UNSIKA menyediakan kelas daring penuh?",
+        "Bisa tidak kuliah tanpa datang ke kampus?",
+        "Apakah UNSIKA mendukung pembelajaran jarak jauh?",
+        "Apakah kelas online tersedia untuk semua prodi?",
+        "Saya di luar kota, bisa ikut kuliah online?",
+        "Apakah kuliah online masih diterapkan setelah pandemi?",
+        "Apakah UNSIKA punya sistem LMS sendiri?",
+        "Apakah perkuliahan bisa diikuti secara online seluruhnya?",
+        "Apakah kelas hybrid juga tersedia?"
+      ],
+      "responses": [
+        "UNSIKA saat ini menerapkan sistem pembelajaran hybrid, kombinasi online dan offline.",
+        "Kelas full online secara permanen belum diterapkan untuk semua prodi.",
+        "Beberapa mata kuliah masih diselenggarakan secara daring menggunakan LMS kampus.",
+        "UNSIKA menggunakan platform pembelajaran seperti e-learning atau LMS internal.",
+        "Kuliah full online hanya diterapkan saat keadaan tertentu seperti pandemi.",
+        "Jika kamu di luar kota, konsultasikan dengan prodi apakah bisa mengikuti secara daring.",
+        "Sebagian mata kuliah teori bisa diberikan secara online, tapi praktikum tetap offline.",
+        "Kelas online bersifat terbatas dan tergantung kebijakan masing-masing fakultas.",
+        "Sistem daring mendukung fleksibilitas, namun tidak menggantikan kuliah tatap muka sepenuhnya.",
+        "Perkuliahan online masih digunakan untuk menunjang pembelajaran digital."
+      ]
+    },
+    {
+      "tag": "sistem_perkuliahan",
+      "patterns": [
+        "Bagaimana sistem kuliah di UNSIKA?",
+        "Apa sistem perkuliahan yang digunakan?",
+        "Sistem pembelajaran UNSIKA seperti apa?",
+        "Kapan jadwal kuliah biasanya dimulai?",
+        "Apa model kuliah di UNSIKA (tatap muka/daring)?",
+        "Apakah sistem pembelajaran di UNSIKA fleksibel?",
+        "Apa sistem akademik yang digunakan kampus ini?",
+        "Berapa SKS yang harus ditempuh tiap semester?",
+        "Bagaimana pembagian teori dan praktikum?",
+        "Apakah sistem kuliah menggunakan KRS dan KHS?"
+      ],
+      "responses": [
+        "Sistem perkuliahan di UNSIKA menggunakan sistem kredit semester (SKS).",
+        "Mahasiswa memilih mata kuliah tiap semester melalui Kartu Rencana Studi (KRS).",
+        "Sistem evaluasi berupa kehadiran, tugas, UTS, dan UAS.",
+        "Pembelajaran dilakukan secara tatap muka dan sebagian daring (hybrid).",
+        "Jumlah SKS per semester berkisar 18–24 SKS tergantung IPK semester sebelumnya.",
+        "Perkuliahan terdiri dari teori, praktikum, dan tugas mandiri.",
+        "Setiap semester, mahasiswa wajib melakukan KRS online sesuai jadwal.",
+        "UNSIKA menggunakan Sistem Akademik Unsika (SISKA).",
+        "Evaluasi akhir berupa nilai Kartu Hasil Studi (KHS).",
+        "Mahasiswa dibimbing dosen wali akademik dalam menyusun rencana studi."
+      ]
+    },
+    {
+      "tag": "sks",
+      "patterns": [
+        "Apa itu sistem kredit semester?",
+        "Apa itu SKS?",
+        "Bagaimana sistem SKS bekerja?",
+        "Berapa SKS yang harus saya ambil setiap semester?",
+        "SKS maksimal per semester berapa?",
+        "Apakah semua mata kuliah punya jumlah SKS yang sama?",
+        "Berapa lama 1 SKS berlangsung dalam seminggu?",
+        "SKS itu ngaruh ke IPK nggak?",
+        "Kalau SKS banyak apakah makin berat?",
+        "Apa pentingnya SKS dalam kuliah?"
+      ],
+      "responses": [
+        "SKS atau Sistem Kredit Semester adalah satuan yang digunakan untuk menyatakan beban studi mahasiswa.",
+        "Setiap mata kuliah memiliki jumlah SKS yang berbeda, biasanya 2 hingga 4 SKS.",
+        "1 SKS umumnya setara dengan 50 menit kuliah tatap muka per minggu selama satu semester.",
+        "Jumlah SKS yang bisa diambil tergantung IPK semester sebelumnya, maksimal bisa sampai 24 SKS.",
+        "Semakin tinggi IPK kamu, semakin banyak SKS yang bisa diambil.",
+        "SKS mencerminkan beban belajar; semakin banyak SKS, semakin besar waktu dan tenaga yang dibutuhkan.",
+        "Penghitungan kelulusan program S1 biasanya mencakup total 144 SKS.",
+        "SKS berpengaruh pada perencanaan waktu kuliah dan jadwal kamu tiap semester.",
+        "Kamu bisa berdiskusi dengan dosen PA (Pembimbing Akademik) terkait jumlah SKS yang akan diambil.",
+        "SKS penting untuk mengukur beban dan durasi masa studi mahasiswa di perguruan tinggi."
+      ]
+    },
+    {
+      "tag": "tugas_akhir",
+      "patterns": [
+        "Apakah ada tugas akhir atau skripsi?",
+        "Apa harus menyusun skripsi untuk lulus?",
+        "Bolehkah mengganti skripsi dengan karya ilmiah lain?",
+        "Kapan biasanya mulai mengerjakan tugas akhir?",
+        "Apakah tugas akhir wajib untuk semua jurusan?",
+        "Berapa SKS tugas akhir?",
+        "Apakah ada seminar hasil sebelum skripsi?",
+        "Bagaimana proses bimbingan tugas akhir?",
+        "Apa ada sidang skripsi?",
+        "Apakah skripsi boleh dikerjakan berkelompok?"
+      ],
+      "responses": [
+        "Ya, program S1 di UNSIKA mewajibkan mahasiswa menyelesaikan tugas akhir berupa skripsi.",
+        "Skripsi merupakan syarat kelulusan di hampir semua program studi.",
+        "Beberapa jurusan menyediakan opsi tugas akhir berbasis proyek atau prototipe tergantung kebijakan prodi.",
+        "Tugas akhir biasanya dikerjakan pada semester 7 atau 8.",
+        "Jumlah SKS untuk skripsi umumnya antara 4–6 SKS, tergantung program studi.",
+        "Sebelum sidang skripsi, mahasiswa harus melalui seminar proposal dan seminar hasil.",
+        "Bimbingan skripsi dilakukan dengan dosen pembimbing secara berkala.",
+        "Tugas akhir harus disusun secara mandiri, kecuali kebijakan prodi memperbolehkan berpasangan.",
+        "Setelah skripsi selesai, mahasiswa akan mengikuti sidang sebagai tahap akhir.",
+        "Detail tugas akhir akan diinformasikan langsung oleh program studi dan fakultas masing-masing."
+      ]
+    },
+    {
+      "tag": "sistem_penilaian",
+      "patterns": [
+        "Bagaimana sistem penilaian mahasiswa?",
+        "Apa saja komponen penilaian kuliah?",
+        "Apakah ada nilai kehadiran?",
+        "Bagaimana konversi nilai ke huruf?",
+        "Nilai A itu berapa skornya?",
+        "Kalau telat tugas, nilai dikurangi?",
+        "Apakah nilai UTS lebih berat dari tugas?",
+        "Bagaimana cara prodi menentukan nilai akhir?",
+        "Boleh komplain nilai ke dosen?",
+        "Apa itu sistem IPK dan IP?"
+      ],
+      "responses": [
+        "Sistem penilaian mencakup kehadiran, tugas, kuis, UTS, dan UAS.",
+        "Nilai akhir dikonversi menjadi huruf mutu seperti A, B, C, D, dan E.",
+        "Nilai A biasanya untuk skor akhir 80–100, B 70–79, dan seterusnya.",
+        "Kehadiran biasanya menjadi salah satu komponen penting dalam penilaian.",
+        "UTS dan UAS memiliki bobot besar, namun tergantung kebijakan dosen.",
+        "Penilaian bersifat kumulatif dan transparan, kamu bisa melihat rekapnya di sistem akademik.",
+        "IP adalah Indeks Prestasi per semester, IPK adalah akumulasi seluruh semester.",
+        "Nilai akhir bisa dibicarakan dengan dosen jika ada kesalahan input atau keberatan.",
+        "Penilaian ditentukan oleh dosen pengampu berdasarkan rubrik yang telah dijelaskan di awal kuliah.",
+        "Plagiarisme atau pelanggaran etika akademik bisa menyebabkan nilai otomatis gagal (E)."
+      ]
+    },
+    {
+      "tag": "pengajar",
+      "patterns": [
+        "Siapa yang mengajar di Universitas Singaperbangsa Karawang?",
+        "Apakah dosennya sudah S2 semua?",
+        "Dosen berasal dari mana saja?",
+        "Apakah ada dosen praktisi di UNSIKA?",
+        "Apakah dosennya berpengalaman?",
+        "Apakah ada dosen tamu dari luar negeri?",
+        "Berapa jumlah dosen di UNSIKA?",
+        "Siapa rektor UNSIKA saat ini?",
+        "Apakah dosen bisa dipilih sendiri?",
+        "Apakah pengajar sesuai bidang studi?"
+      ],
+      "responses": [
+        "Pengajar di UNSIKA adalah dosen tetap dan dosen luar yang berasal dari berbagai bidang keahlian.",
+        "Mayoritas dosen di UNSIKA sudah berkualifikasi S2, dan banyak yang sedang atau telah menempuh S3.",
+        "Beberapa dosen praktisi dari industri juga turut mengajar di UNSIKA, terutama untuk program vokasi.",
+        "UNSIKA juga mengundang dosen tamu dari universitas lain dan industri untuk berbagi pengalaman.",
+        "Dosen di UNSIKA berpengalaman di bidang akademik maupun praktis sesuai jurusan masing-masing.",
+        "Kamu akan dibimbing oleh dosen yang ahli di bidangnya dan aktif dalam penelitian.",
+        "Beberapa fakultas juga melibatkan alumni sebagai pengajar atau pembicara seminar.",
+        "Pemilihan dosen pengampu dilakukan oleh prodi, dan mahasiswa tidak bisa memilih sendiri dosen.",
+        "Rektor UNSIKA saat ini adalah Prof. Dr. Ade Maman Suherman, M.Sc.",
+        "Pengajar di UNSIKA berasal dari berbagai perguruan tinggi ternama di Indonesia."
+      ]
+    },
+    {
+      "tag": "mata_kuliah_umum",
+      "patterns": [
+        "Apa saja mata kuliah umum?",
+        "Mata kuliah umum apa saja yang wajib diambil?",
+        "Apakah ada mata kuliah umum di semua jurusan?",
+        "Apakah Pancasila termasuk mata kuliah umum?",
+        "Apa itu MKU?",
+        "Apakah Agama termasuk mata kuliah umum?",
+        "Berapa SKS mata kuliah umum?",
+        "Apakah semua mahasiswa ambil mata kuliah umum yang sama?",
+        "Kapan mata kuliah umum diambil?",
+        "Mata kuliah umum diajarkan oleh siapa?"
+      ],
+      "responses": [
+        "Mata kuliah umum (MKU) biasanya meliputi Pendidikan Agama, Pancasila, Bahasa Indonesia, Kewarganegaraan, dan Bahasa Inggris.",
+        "Setiap mahasiswa dari semua jurusan wajib mengambil mata kuliah umum.",
+        "Mata kuliah umum biasanya diambil pada semester awal.",
+        "MKU bertujuan membentuk wawasan kebangsaan dan kemampuan dasar mahasiswa.",
+        "Beberapa MKU memiliki bobot 2 SKS, tergantung kebijakan kampus.",
+        "Mata kuliah umum diajarkan oleh dosen yang sesuai bidangnya dan sering dikoordinasikan di tingkat universitas.",
+        "MKU merupakan bagian dari kurikulum nasional yang wajib ada di setiap program studi.",
+        "Semua mahasiswa mengikuti MKU yang sama meskipun berasal dari jurusan berbeda.",
+        "MKU menjadi bekal awal sebelum mahasiswa fokus pada mata kuliah keahlian jurusan.",
+        "Universitas menyediakan jadwal MKU terpisah dari mata kuliah program studi."
+      ]
+    },
+    {
+      "tag": "pemilihan_mata_kuliah",
+      "patterns": [
+        "Bagaimana sistem pemilihan mata kuliah?",
+        "Kapan bisa memilih mata kuliah?",
+        "Apakah bisa memilih dosen pengampu?",
+        "Berapa banyak mata kuliah yang bisa dipilih?",
+        "Apakah harus konsultasi dengan dosen wali dulu?",
+        "Apakah pemilihan mata kuliah dilakukan secara online?",
+        "Kalau telat pilih mata kuliah bagaimana?",
+        "Apakah bisa mengganti mata kuliah setelah memilih?",
+        "Dimana pemilihan mata kuliah dilakukan?",
+        "Apa yang terjadi jika tidak memilih mata kuliah?"
+      ],
+      "responses": [
+        "Sistem pemilihan mata kuliah dilakukan melalui portal akademik secara online pada awal semester.",
+        "Mahasiswa memilih mata kuliah berdasarkan SKS yang diperbolehkan, tergantung IP semester sebelumnya.",
+        "Sebelum memilih, biasanya mahasiswa berkonsultasi dengan dosen pembimbing akademik.",
+        "Waktu dan teknis pemilihan diumumkan melalui situs resmi atau media informasi fakultas.",
+        "Mahasiswa tidak bisa memilih dosen, karena pengampu ditentukan oleh program studi.",
+        "Pemilihan dilakukan mandiri oleh mahasiswa melalui sistem KRS (Kartu Rencana Studi).",
+        "Jika terlambat memilih, mahasiswa bisa kehilangan kesempatan untuk ambil mata kuliah tertentu.",
+        "Perubahan pilihan mata kuliah hanya bisa dilakukan pada masa revisi KRS.",
+        "Pemilihan mata kuliah merupakan bagian penting dari perencanaan studi tiap semester.",
+        "Tidak memilih mata kuliah bisa menyebabkan status akademik terganggu atau dianggap cuti."
+      ]
+    },
+    {
+      "tag": "pindah_jurusan",
+      "patterns": [
+        "Apakah bisa pindah jurusan?",
+        "Bagaimana cara pindah jurusan?",
+        "Kapan waktu yang tepat untuk pindah jurusan?",
+        "Apakah perlu izin untuk pindah jurusan?",
+        "Apakah semua mahasiswa boleh pindah jurusan?",
+        "Apakah nilai IPK berpengaruh untuk pindah jurusan?",
+        "Apakah harus mengulang mata kuliah jika pindah jurusan?",
+        "Apa saja syarat pindah jurusan di UNSIKA?",
+        "Apakah bisa pindah ke jurusan dari fakultas lain?",
+        "Siapa yang harus dihubungi jika ingin pindah jurusan?"
+      ],
+      "responses": [
+        "Mahasiswa dapat mengajukan pindah jurusan dengan syarat dan prosedur tertentu.",
+        "Pengajuan pindah jurusan dilakukan melalui fakultas dan harus mendapat persetujuan dari kedua prodi.",
+        "Biasanya pindah jurusan hanya diperbolehkan pada semester awal, maksimal semester 3.",
+        "IPK dan alasan akademik menjadi pertimbangan penting dalam proses pindah jurusan.",
+        "Mahasiswa yang pindah jurusan mungkin harus mengulang beberapa mata kuliah yang tidak ekuivalen.",
+        "Pindah jurusan lintas fakultas dimungkinkan, namun dengan syarat yang lebih ketat.",
+        "Proses pengajuan dilakukan melalui surat resmi ke fakultas, disertai dengan dokumen pendukung.",
+        "Berkonsultasilah dengan dosen pembimbing akademik atau bagian akademik fakultas.",
+        "Tidak semua pengajuan pindah jurusan diterima, tergantung kebijakan fakultas tujuan.",
+        "Untuk informasi detail, mahasiswa bisa menghubungi bagian akademik di kampus."
+      ]
+    },
+    {
+      "tag": "kuliah_tamu",
+      "patterns": [
+        "Apakah ada kuliah tamu dari profesional?",
+        "Apakah kampus mengundang pembicara luar?",
+        "Apakah sering ada seminar dari praktisi industri?",
+        "Apakah ada dosen tamu dari luar negeri?",
+        "Kuliah tamu diadakan seberapa sering?",
+        "Siapa saja yang biasanya jadi pembicara kuliah tamu?",
+        "Apakah kuliah tamu wajib diikuti?",
+        "Apakah ada sertifikat dari kuliah tamu?",
+        "Apakah kuliah tamu berpengaruh ke nilai?",
+        "Bagaimana cara ikut kuliah tamu?"
+      ],
+      "responses": [
+        "UNSIKA secara rutin menyelenggarakan kuliah tamu dengan menghadirkan profesional dari berbagai bidang.",
+        "Kuliah tamu bertujuan memperluas wawasan mahasiswa di luar materi akademik formal.",
+        "Pembicara kuliah tamu bisa berasal dari industri, alumni sukses, dosen tamu, hingga tokoh masyarakat.",
+        "Beberapa kuliah tamu terbuka untuk umum dan ada pula yang dikhususkan untuk jurusan tertentu.",
+        "Kuliah tamu dapat diadakan dalam bentuk seminar, workshop, atau sesi diskusi.",
+        "Partisipasi dalam kuliah tamu kadang menjadi nilai tambah dalam portofolio akademik.",
+        "Beberapa kuliah tamu menyediakan sertifikat keikutsertaan.",
+        "Informasi tentang kuliah tamu biasanya diumumkan melalui media sosial kampus atau prodi.",
+        "Mahasiswa bisa mendaftar secara online jika kuota terbatas.",
+        "Kuliah tamu juga memberikan kesempatan mahasiswa untuk membangun jaringan (networking)."
+      ]
+    },
+    {
+      "tag": "biaya_kuliah",
+      "patterns": [
+        "Berapa biaya kuliah per semester?",
+        "Berapakah biaya kuliah di UNSIKA?",
+        "Berapa uang kuliah di Universitas Singaperbangsa Karawang?",
+        "Apakah biaya kuliah mahal?",
+        "Berapa total biaya kuliah untuk satu tahun?"
+      ],
+      "responses": [
+        "Biaya kuliah di UNSIKA menggunakan sistem UKT (Uang Kuliah Tunggal) yang besarannya berbeda-beda tergantung kemampuan ekonomi mahasiswa.",
+        "Per semester, biaya kuliah bervariasi mulai dari sekitar 500 ribu hingga 5 juta rupiah tergantung golongan UKT.",
+        "UKT ditentukan setelah proses seleksi dan verifikasi dokumen saat daftar ulang.",
+        "Biaya kuliah tidak termasuk biaya praktikum atau kegiatan tambahan jika ada.",
+        "Untuk informasi resmi, bisa dilihat di situs UNSIKA atau hubungi bagian akademik."
+      ]
+    },
+    {
+      "tag": "biaya_jurusan",
+      "patterns": [
+        "Apakah biaya tiap jurusan berbeda?",
+        "Apakah UKT berbeda antar jurusan?",
+        "Jurusan apa yang memiliki biaya tertinggi?",
+        "Apakah jurusan teknik lebih mahal biayanya?",
+        "Apakah biaya kuliah ditentukan oleh jurusan?"
+      ],
+      "responses": [
+        "Ya, biaya kuliah antar jurusan bisa berbeda tergantung kebijakan masing-masing program studi dan kebutuhan praktikum.",
+        "Jurusan dengan fasilitas laboratorium atau kegiatan praktikum biasanya memiliki UKT yang sedikit lebih tinggi.",
+        "Meski begitu, sistem UKT tetap memperhitungkan kondisi ekonomi mahasiswa, bukan hanya jurusannya.",
+        "Perbedaan UKT juga dipengaruhi oleh status akreditasi dan kebutuhan operasional masing-masing program studi.",
+        "Informasi resmi tentang rincian biaya tiap jurusan dapat diperoleh di website atau bagian keuangan UNSIKA."
+      ]
+    },
+    {
+      "tag": "sistem_pembayaran",
+      "patterns": [
+        "Bagaimana sistem pembayaran kuliah"
+      ],
+      "responses": [
+        ".........."
+      ]
+    },
+    {
+      "tag": "sistem_pembayaran",
+      "patterns": [
+        "Bagaimana sistem pembayaran kuliah?",
+        "Apakah pembayaran bisa dicicil?",
+        "Bayar kuliah dilakukan lewat mana?",
+        "Apakah ada potongan biaya jika tidak mampu?",
+        "Kapan jadwal pembayaran kuliah?"
+      ],
+      "responses": [
+        "Sistem pembayaran kuliah di UNSIKA dilakukan setiap semester sebelum pengisian KRS dimulai.",
+        "Pembayaran dilakukan secara online melalui bank mitra atau sistem akademik yang disediakan kampus.",
+        "Terdapat kebijakan cicilan atau penundaan pembayaran bagi mahasiswa dengan kondisi ekonomi tertentu, melalui pengajuan resmi.",
+        "Mahasiswa juga bisa mengajukan keringanan UKT melalui jalur beasiswa atau surat permohonan ke bagian keuangan.",
+        "Jadwal dan teknis pembayaran diumumkan secara resmi melalui situs kampus atau media informasi prodi."
+      ]
+    },
+    {
+      "tag": "biaya_tambahan",
+      "patterns": [
+        "Apakah ada biaya tambahan?",
+        "Apakah ada biaya lain selain UKT?",
+        "Adakah biaya wajib selain biaya kuliah?",
+        "Biaya apa saja yang harus dibayar selain UKT?",
+        "Apakah ada biaya administrasi tambahan?"
+      ],
+      "responses": [
+        "Selain UKT, ada beberapa biaya tambahan seperti biaya praktikum, kegiatan kemahasiswaan, dan biaya fasilitas sesuai jurusan.",
+        "Biaya tambahan tergantung program studi dan jenis kegiatan yang diikuti mahasiswa.",
+        "Biaya administrasi umum juga berlaku, misalnya biaya registrasi semester.",
+        "Informasi detail biaya tambahan dapat dicek di bagian keuangan kampus atau melalui pengumuman resmi.",
+        "Beberapa program juga mengenakan biaya khusus untuk alat atau bahan praktik tertentu."
+      ]
+    },
+    {
+      "tag": "uang_pangkal",
+      "patterns": [
+        "Apakah ada uang pangkal?",
+        "Apakah harus bayar uang pangkal saat masuk?",
+        "Apakah UNSIKA memungut uang pangkal?",
+        "Berapa uang pangkal di UNSIKA?",
+        "Apakah ada biaya masuk selain UKT?"
+      ],
+      "responses": [
+        "UNSIKA tidak memungut uang pangkal, cukup membayar UKT sesuai golongan ekonomi mahasiswa.",
+        "Tidak ada uang pangkal yang harus dibayar saat masuk di UNSIKA.",
+        "Pembayaran fokus pada UKT dan biaya lain yang memang diwajibkan.",
+        "Jadi, mahasiswa baru tidak perlu khawatir tentang uang pangkal saat mendaftar.",
+        "Untuk informasi lebih lanjut, silakan menghubungi bagian pendaftaran."
+      ]
+    },
+    {
+      "tag": "biaya_praktikum",
+      "patterns": [
+        "Apakah ada biaya praktikum?",
+        "Berapa biaya praktikum?",
+        "Apakah praktikum dikenakan biaya?",
+        "Apakah biaya praktikum termasuk UKT?",
+        "Berapa tambahan biaya untuk praktikum?"
+      ],
+      "responses": [
+        "Ya, beberapa program studi mengenakan biaya praktikum terpisah dari UKT.",
+        "Biaya praktikum biasanya tergantung jenis praktikum dan jurusan masing-masing.",
+        "Untuk detail biaya praktikum, bisa dilihat di silabus program studi atau bagian keuangan.",
+        "Biaya ini digunakan untuk pembelian alat dan bahan praktikum yang diperlukan.",
+        "Mahasiswa akan diberitahu detail biaya praktikum saat proses registrasi."
+      ]
+    },
+    {
+      "tag": "jenis_beasiswa",
+      "patterns": [
+        "Apa saja jenis beasiswa yang tersedia?",
+        "Jenis beasiswa apa saja di UNSIKA?",
+        "Beasiswa apa saja yang bisa diikuti?",
+        "Ada beasiswa apa saja di kampus?",
+        "Beasiswa yang tersedia di UNSIKA?"
+      ],
+      "responses": [
+        "UNSIKA menyediakan berbagai jenis beasiswa seperti Beasiswa KIP-Kuliah, Beasiswa Prestasi Akademik, dan Beasiswa Peningkatan Kesejahteraan Mahasiswa.",
+        "Selain itu, ada juga beasiswa dari pemerintah dan swasta yang dapat diakses mahasiswa.",
+        "Beasiswa KIP-Kuliah untuk mahasiswa kurang mampu yang lolos seleksi administrasi.",
+        "Beasiswa prestasi diberikan bagi mahasiswa dengan nilai akademik unggul dan aktif di kegiatan kampus.",
+        "Informasi lengkap dapat dilihat di bagian kemahasiswaan atau website resmi UNSIKA."
+      ]
+    },
+    {
+      "tag": "pengajuan_beasiswa",
+      "patterns": [
+        "Bagaimana cara mengajukan beasiswa?",
+        "Cara mengajukan beasiswa di UNSIKA?",
+        "Bagaimana prosedur pengajuan beasiswa?",
+        "Langkah-langkah mengajukan beasiswa apa saja?",
+        "Dokumen apa yang harus disiapkan untuk beasiswa?"
+      ],
+      "responses": [
+        "Untuk mengajukan beasiswa, mahasiswa harus mengisi formulir pendaftaran dan melengkapi dokumen pendukung seperti KTP, KHS, dan surat keterangan ekonomi.",
+        "Pengajuan dilakukan secara online melalui portal beasiswa UNSIKA atau langsung ke bagian kemahasiswaan.",
+        "Pastikan mengikuti jadwal pendaftaran dan memenuhi semua persyaratan yang ditentukan.",
+        "Dokumen penting biasanya termasuk surat rekomendasi, sertifikat prestasi, dan surat pernyataan tidak menerima beasiswa lain.",
+        "Informasi lengkap dan formulir pengajuan tersedia di website resmi atau kantor kemahasiswaan."
+      ]
+    },
+    {
+      "tag": "syarat_beasiswa",
+      "patterns": [
+        "Apa syarat mendapatkan beasiswa?",
+        "Syarat apa saja untuk dapat beasiswa?",
+        "Kriteria beasiswa di UNSIKA?",
+        "Apa persyaratan beasiswa kampus?",
+        "Bagaimana syarat agar diterima beasiswa?"
+      ],
+      "responses": [
+        "Syarat utama biasanya meliputi status mahasiswa aktif, memiliki prestasi akademik minimal IPK 3.00, dan kondisi ekonomi kurang mampu untuk beberapa jenis beasiswa.",
+        "Mahasiswa juga harus aktif dalam kegiatan kemahasiswaan dan tidak sedang menerima beasiswa lain, tergantung jenis beasiswanya.",
+        "Dokumen pendukung seperti KTP, KTM, KHS, dan surat keterangan tidak mampu juga diperlukan.",
+        "Persyaratan detail disesuaikan dengan jenis beasiswa yang dilamar.",
+        "Pastikan selalu mengecek pengumuman resmi untuk persyaratan terbaru."
+      ]
+    },
+    {
+      "tag": "pendaftaran_beasiswa",
+      "patterns": [
+        "Kapan pendaftaran beasiswa dibuka?",
+        "Tanggal berapa pendaftaran beasiswa?",
+        "Kapan jadwal pendaftaran beasiswa UNSIKA?",
+        "Buka pendaftaran beasiswa kapan?",
+        "Waktu pendaftaran beasiswa?"
+      ],
+      "responses": [
+        "Pendaftaran beasiswa biasanya dibuka setiap awal semester ganjil dan genap.",
+        "Pengumuman resmi jadwal pendaftaran beasiswa dapat diakses melalui website resmi UNSIKA.",
+        "Pastikan untuk memantau pengumuman agar tidak melewatkan batas waktu pendaftaran.",
+        "Setiap tahun ada dua periode utama pendaftaran beasiswa, sesuaikan dengan jadwal akademik.",
+        "Informasi terbaru dapat diperoleh dari kantor kemahasiswaan atau portal akademik UNSIKA."
+      ]
+    },
+    {
+      "tag": "beasiswa_pemerintah",
+      "patterns": [
+        "Apakah ada beasiswa dari pemerintah?",
+        "Ada beasiswa pemerintah di UNSIKA?",
+        "Beasiswa pemerintah yang tersedia?",
+        "Beasiswa dari pemerintah apa saja?",
+        "Apakah UNSIKA menerima beasiswa pemerintah?"
+      ],
+      "responses": [
+        "Ya, UNSIKA menerima mahasiswa penerima beasiswa KIP-Kuliah dari pemerintah.",
+        "Selain KIP-Kuliah, ada juga beasiswa lainnya dari kementerian terkait yang bisa diakses mahasiswa.",
+        "Beasiswa pemerintah ini ditujukan untuk membantu mahasiswa kurang mampu dan berprestasi.",
+        "Proses pendaftaran dan verifikasi beasiswa pemerintah biasanya dilakukan melalui kampus.",
+        "Informasi lengkap bisa diperoleh di bagian kemahasiswaan atau melalui situs resmi pemerintah."
+      ]
+    },
+    {
+      "tag": "beasiswa_swasta",
+      "patterns": [
+        "Apakah ada beasiswa dari swasta?",
+        "Beasiswa swasta di UNSIKA?",
+        "Ada beasiswa sponsor swasta?",
+        "Beasiswa dari perusahaan swasta?",
+        "Apakah UNSIKA dapat beasiswa swasta?"
+      ],
+      "responses": [
+        "Ya, beberapa perusahaan dan yayasan swasta memberikan beasiswa untuk mahasiswa UNSIKA.",
+        "Beasiswa swasta biasanya diberikan berdasarkan prestasi akademik atau sosial.",
+        "Mahasiswa bisa mengajukan atau direkomendasikan untuk beasiswa swasta tertentu.",
+        "Informasi dan pendaftaran beasiswa swasta bisa didapatkan di bagian kemahasiswaan.",
+        "Beasiswa swasta ini dapat membantu biaya kuliah dan kebutuhan akademik lainnya."
+      ]
+    },
+    {
+      "tag": "tanggungan_beasiswa",
+      "patterns": [
+        "Apakah beasiswa menanggung biaya penuh?",
+        "Beasiswa menanggung biaya kuliah seluruhnya?",
+        "Beasiswa bisa membayar semua biaya kuliah?",
+        "Beasiswa menutupi biaya UKT dan lain-lain?",
+        "Seberapa besar tanggungan beasiswa?"
+      ],
+      "responses": [
+        "Beberapa beasiswa menanggung biaya kuliah penuh, namun ada juga yang hanya sebagian seperti UKT saja.",
+        "Tanggungan beasiswa tergantung jenis dan ketentuan masing-masing program beasiswa.",
+        "Ada beasiswa yang menanggung biaya kuliah, praktikum, serta biaya hidup mahasiswa.",
+        "Mahasiswa perlu membaca detail ketentuan beasiswa yang diikuti untuk mengetahui cakupannya.",
+        "Untuk beasiswa KIP-Kuliah, biaya kuliah ditanggung penuh oleh pemerintah selama masa studi."
+      ]
+    },
+    {
+      "tag": "pencabutan_beasiswa",
+      "patterns": [
+        "Bisakah beasiswa dicabut?",
+        "Kapan beasiswa bisa dicabut?",
+        "Apakah beasiswa bisa dibatalkan?",
+        "Apa alasan pencabutan beasiswa?",
+        "Bagaimana jika tidak memenuhi syarat beasiswa?"
+      ],
+      "responses": [
+        "Beasiswa dapat dicabut jika mahasiswa melanggar aturan atau tidak memenuhi persyaratan akademik yang ditetapkan.",
+        "Misalnya, jika IPK turun di bawah batas minimum atau mahasiswa tidak aktif mengikuti perkuliahan.",
+        "Pencabutan juga dapat terjadi jika ditemukan pelanggaran kode etik kampus atau persyaratan administrasi lainnya.",
+        "Mahasiswa biasanya akan diberikan peringatan dan kesempatan untuk memperbaiki sebelum beasiswa dicabut.",
+        "Pastikan selalu menjaga prestasi akademik dan mematuhi aturan beasiswa agar tidak kehilangan manfaatnya."
+      ]
+    },
+    {
+      "tag": "fasilitas_kampus",
+      "patterns": [
+        "Apa saja fasilitas kampus?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) menyediakan berbagai fasilitas yang mendukung kegiatan belajar dan perkembangan mahasiswanya. Fasilitas yang umumnya tersedia di kampus UNSIKA antara lain: ruang kelas, perpustakaan, laboratorium, area diskusi dan seminar, sarana olahraga, kantin, jaringan wi-fi, tempat parkir, pusat kesehatan, dan asrama. Fasilitas-fasilitas ini dirancang secara optimal untuk menciptakan lingkungan belajar yang kondusif dan mendukung pertumbuhan akademik serta non-akademik mahasiswa."
+      ]
+    },
+    {
+      "tag": "perpustakaan",
+      "patterns": [
+        "Apakah tersedia perpustakaan?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) memiliki sebuah perpustakaan yang disebut UPA Perpustakaan UNSIKA, yang berfungsi sebagai lokasi untuk memperoleh pengetahuan dan menjadi rujukan bagi mahasiswa, dosen, dan staf. Perpustakaan UNSIKA menawarkan berbagai layanan dan fasilitas untuk mendukung kegiatan akademik, termasuk koleksi buku fisik/cetak, koleksi digital, serta akses ke perpustakaan digital."
+      ]
+    },
+    {
+      "tag": "laboratorium_komputer",
+      "patterns": [
+        "Apakah ada laboratorium komputer?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) memiliki fasilitas laboratorium komputer yang dimanfaatkan untuk mendukung proses pembelajaran, terutama untuk program studi yang membutuhkan teknologi informasi dan komputer."
+      ]
+    },
+    {
+      "tag": "wifi_kampus",
+      "patterns": [
+        "Apakah tersedia wifi kampus?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan koneksi Wi-Fi di seluruh wilayah kampus. Sarana Wi-Fi ini bertujuan untuk mendukung proses belajar, penelitian, serta akses informasi bagi mahasiswa, dosen, dan staf."
+      ]
+    },
+    {
+      "tag": "asrama_mahasiswa",
+      "patterns": [
+        "Apakah ada asrama mahasiswa?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) menyediakan fasilitas tempat tinggal berupa asrama bagi para mahasiswanya, terutama bagi yang berasal dari luar daerah. Fasilitas asrama ini dibuat untuk mendukung mahasiswa dalam melaksanakan kegiatan kuliah dan menciptakan suasana nyaman bagi mereka yang jauh dari rumah. Namun, untuk mendapatkan informasi yang lebih lengkap mengenai ketersediaan dan langkah-langkah pendaftaran asrama, disarankan untuk menghubungi langsung pihak universitas."
+      ]
+    },
+    {
+      "tag": "klinik_kampus",
+      "patterns": [
+        "Apakah ada klinik kampus?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan fasilitas kesehatan di kampus untuk para mahasiswa dan staf pengajarnya. Klinik di kampus ini berfungsi penting dalam memastikan kesehatan dan kesejahteraan mahasiswa, agar mereka dapat fokus pada studi dan kegiatan akademik lainnya."
+      ]
+    },
+    {
+      "tag": "kantin_kampus",
+      "patterns": [
+        "Apakah ada kantin di kampus?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) memiliki kantin yang menyediakan berbagai pilihan makanan dan minuman untuk mahasiswa, dosen, dan staf. Kantin di UNSIKA berperan penting dalam menyediakan kebutuhan makanan dan minuman bagi komunitas kampus, serta menciptakan suasana sosial yang menyenangkan."
+      ]
+    },
+    {
+      "tag": "fasilitas_olahraga",
+      "patterns": [
+        "Apakah tersedia fasilitas olahraga?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan berbagai fasilitas olahraga bagi mahasiswa dan sivitas akademika. Beberapa fasilitas olahraga yang tersedia di kampus UNSIKA antara lain: lapangan basket, lapangan voli, lapangan futsal, dan lapangan bulu tangkis. Fasilitas-fasilitas ini dapat digunakan untuk menyalurkan hobi berolahraga atau sekadar berolahraga ringan untuk menjaga kebugaran tubuh setelah aktivitas perkuliahan. Dengan adanya fasilitas-fasilitas tersebut, UNSIKA mendukung penuh kegiatan olahraga dan pengembangan prestasi mahasiswa di bidang keolahragaan."
+      ]
+    },
+    {
+      "tag": "keamanan_kampus",
+      "patterns": [
+        "Apakah kampus aman?"
+      ],
+      "responses": [
+        "Secara umum, Universitas Singaperbangsa Karawang (UNSIKA) termasuk kampus yang aman bagi mahasiswa dan sivitas akademika."
+      ]
+    },
+    {
+      "tag": "tempat_ibadah",
+      "patterns": [
+        "Apakah tersedia tempat ibadah?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan berbagai fasilitas ibadah untuk mendukung kebutuhan spiritual sivitas akademika dari berbagai agama, di antaranya Masjid Al-Khoir yang menjadi masjid utama di Kampus 1, Masjid Al-Haddi yang sedang dalam proses pembangunan di Kampus 2, serta Auditorium kampus yang difungsikan sebagai tempat ibadah untuk umat non-muslim. Dengan fasilitas ibadah yang lengkap dan inklusif ini, UNSIKA berupaya menciptakan lingkungan kampus yang mendukung kebebasan beragama dan kehidupan spiritual yang sehat bagi seluruh sivitas akademika."
+      ]
+    },
+    {
+      "tag": "ruang_diskusi",
+      "patterns": [
+        "Apakah tersedia ruang diskusi?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan berbagai ruang diskusi yang mendukung kegiatan akademik dan kolaborasi mahasiswa. Beberapa fasilitas yang dapat dimanfaatkan ialah perpustakaan UNSIKA, saung meeting di Fakultas Pertanian, ruang kelas, atau laboratorium. Dengan fasilitas-fasilitas tersebut, UNSIKA mendukung penuh kegiatan diskusi dan kolaborasi mahasiswa dalam menunjang proses belajar dan pengembangan akademik."
+      ]
+    },
+    {
+      "tag": "ruang_kelas",
+      "patterns": [
+        "Apakah ada ruang kelas digital atau smart class?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) telah mengadopsi konsep kelas digital dan pembelajaran berbasis teknologi untuk mendukung proses belajar-mengajar yang lebih modern dan interaktif, yaitu berupa platform Virtual Learning Environment (VLE) yang dikembangkan oleh Fakultas Ilmu Komputer dan ruang kelas berbasis kontainer."
+      ]
+    },
+    {
+      "tag": "konseling_mahasiswa",
+      "patterns": [
+        "Apakah ada layanan konseling mahasiswa?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan layanan bimbingan dan konseling bagi mahasiswa untuk mendukung kesejahteraan akademik, pribadi, dan sosial mereka. Mahasiswa yang membutuhkan layanan ini dapat menghubungi bagian kemahasiswaan di fakultas masing-masing atau mengakses informasi lebih lanjut melalui situs resmi UNSIKA di unsika.ac.id."
+      ]
+    },
+    {
+      "tag": "ramah_difabel",
+      "patterns": [
+        "Apakah kampus ramah terhadap penyandang disabilitas?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) berkomitmen menjadi kampus yang ramah bagi penyandang disabilitas melalui berbagai inisiatif dan fasilitas yang mendukung aksesibilitas serta inklusi."
+      ]
+    },
+    {
+      "tag": "parkiran",
+      "patterns": [
+        "Apakah ada parkir kendaraan?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan fasilitas parkir untuk kendaraan roda dua dan roda empat bagi mahasiswa, dosen, dan staf. Namun, ada beberapa tantangan terkait kapasitas dan pengelolaan parkir di lingkungan kampus."
+      ]
+    },
+    {
+      "tag": "bem",
+      "patterns": [
+        "Apa itu BEM?"
+      ],
+      "responses": [
+        "BEM adalah singkatan dari Badan Eksekutif Mahasiswa. Ini adalah organisasi kemahasiswaan yang berfungsi sebagai perwakilan eksekutif mahasiswa di tingkat universitas maupun fakultas. BEM berperan penting sebagai jembatan antara mahasiswa dengan pihak kampus serta sebagai wadah aspirasi, advokasi, dan pengembangan potensi mahasiswa. Di UNSIKA, BEM ada di tingkat universitas (BEM Universitas) dan di tingkat fakultas (BEM Fakultas). BEM Universitas berperan secara luas di seluruh lingkungan kampus, sementara BEM Fakultas fokus pada lingkup fakultas masing-masing."
+      ]
+    },
+    {
+      "tag": "ukm",
+      "patterns": [
+        "Apa saja UKM yang tersedia?"
+      ],
+      "responses": [
+        "Universitas Singaperbangsa Karawang (UNSIKA) memiliki beragam Unit Kegiatan Mahasiswa (UKM) yang bisa diikuti untuk mengembangkan minat, bakat, dan keterampilan di luar akademik. UKM-UKM ini tersebar di berbagai bidang seperti olahraga, seni, budaya, keagamaan, dan kewirausahaan."
+      ]
+    },
+    {
+      "tag": "kewajiban_organisasi",
+      "patterns": [
+        "Apakah saya wajib ikut organisasi?"
+      ],
+      "responses": [
+        "Tidak, kamu tidak wajib ikut organisasi di kampus, termasuk di UNSIKA. Namun, bergabung dengan organisasi kemahasiswaan seperti BEM, UKM, atau Himpunan Mahasiswa Jurusan (HMJ) sangat disarankan karena banyak manfaatnya, seperti mengembangkan softskill, memperluas jaringan pertemanan, mendapatkan pengalaman organisasi yang berguna untuk karir, serta meningkatkan rasa percaya diri dan kemampuan manajemen waktu. Kalau kamu merasa sibuk atau belum siap, ikut organisasi bisa ditunda sampai kamu merasa nyaman. Jadi, ikut organisasi itu pilihan, bukan kewajiban ya!"
+      ]
+    },
+    {
+      "tag": "bergabung_organisasi",
+      "patterns": [
+        "Bagaimana cara bergabung dengan organisasi?"
+      ],
+      "responses": [
+        "Cara bergabung dengan organisasi di kampus, khususnya di UNSIKA, biasanya cukup mudah dan dapat dilakukan dengan beberapa langkah seperti: mencari informasi organisasi yang kamu minati, mengikuti Open Recruitment atau pendaftaran, mengikuti proses seleksi (jika ada), menjalani masa orientasi atau training, dan kemudian aktif berpartisipasi setelah resmi menjadi anggota."
+      ]
+    },
+    {
+      "tag": "lomba_mahasiswa",
+      "patterns": [
+        "Apakah ada lomba antar mahasiswa?"
+      ],
+      "responses": [
+        "Ya, di UNSIKA sering diadakan lomba antar mahasiswa baik di tingkat fakultas maupun universitas. Lomba-lomba ini bertujuan mengembangkan kemampuan, bakat, dan kreativitas mahasiswa di berbagai bidang. Jenis lomba yang biasanya diadakan antara lain lomba akademik, lomba olahraga, lomba seni dan budaya, lomba kewirausahaan dan inovasi, serta lomba keagamaan."
+      ]
+    },
+    {
+      "tag": "program_magang",
+      "patterns": [
+        "Apakah tersedia program magang?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan berbagai program magang bagi mahasiswa, baik melalui skema internal fakultas maupun program nasional seperti Merdeka Belajar Kampus Merdeka (MBKM)."
+      ]
+    },
+    {
+      "tag": "pertukaran_pelajar",
+      "patterns": [
+        "Apakah ada program pertukaran pelajar ke luar negeri?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan peluang pertukaran pelajar ke luar negeri melalui berbagai program internasional yang telah terjalin dengan mitra universitas di luar negeri."
+      ]
+    },
+    {
+      "tag": "program_kkn",
+      "patterns": [
+        "Apakah tersedia program KKN?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) menyediakan program Kuliah Kerja Nyata (KKN) sebagai bagian dari implementasi Tri Dharma Perguruan Tinggi, yang meliputi pendidikan, penelitian, dan pengabdian kepada masyarakat. Jenis program KKN di UNSIKA antara lain KKN Reguler, KKN Kebangsaan, dan KKN Internasional. Jika kamu ingin informasi lebih lengkap atau bantuan pendaftaran, kamu bisa menghubungi LPPM UNSIKA melalui https://si.kknunsika.site/ atau melalui media sosial resmi mereka."
+      ]
+    },
+    {
+      "tag": "forum_alumni",
+      "patterns": [
+        "Apakah ada forum alumni?"
+      ],
+      "responses": [
+        "Ya, Universitas Singaperbangsa Karawang (UNSIKA) memiliki berbagai wadah untuk menjalin komunikasi dan silaturahmi antara alumni dan almamater."
+      ]
+    },
+    {
+      "tag": "alumni",
+      "patterns": [
+        "Apakah alumni dilibatkan dalam pengembangan kampus?"
+      ],
+      "responses": [
+        "Ya, alumni Universitas Singaperbangsa Karawang (UNSIKA) aktif dilibatkan dalam berbagai aspek pengembangan kampus. Mereka berperan penting sebagai mitra strategis dalam meningkatkan kualitas pendidikan dan memperluas jaringan kampus. UNSIKA memandang alumni bukan hanya sebagai lulusan, tetapi juga sebagai mitra yang berkontribusi aktif dalam kemajuan dan inovasi kampus."
+      ]
+    }
+  ]
+}
