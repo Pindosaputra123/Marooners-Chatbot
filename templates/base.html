@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Marooners Asisten</title>
+</head>
+<body>
+    <!-- BACK-END -->
+    <div class="container">
+        <div class="chatbox">
+            <div class="chatbox__support">
+                <div class="chatbox__header">
+                    <div class="chatbox__image--header">
+                        <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                    </div>
+                    <div class="chatbox__content--header">
+                        <h4 class="chatbox__heading--header">Chat support</h4>
+                        <p class="chatbox__description--header">Hi. Saya adalah Marooners. Ada yang bisa Saya bantu?</p>
+                    </div>
+                </div>
+                <div class="chatbox__messages">
+                    <div></div>
+                </div>
+                <div class="chatbox__footer">
+                    <input type="text" placeholder="Tulis pesan...">
+                    <button class="chatbox__send--footer send__button">Kirim</button>
+                </div>
+            </div>
+            <div class="chatbox__button">
+                <button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+
+    <!-- FRONT-END -->
+     <section class="header">
+        <nav>
+            <video src="static/video/SJ.mp4" autoplay muted loop></video>
+            <a href="index.html"><img src="static/images/sj.png"></a>
+            <h3>Universitas <br> Singaperbangsa Karawang</h3>
+           
+           <div class="nav-links">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="#">TENTANG KAMI</a></li>
+                    <li><a href="#">PROGRAM STUDI</a></li>
+                    <li><a href="#">BLOG</a></li>
+                    <li><a href="#">KONTAK</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="text-box">
+            <h1> UNSIKA </h1>
+            <p>Universitas Singaperbangsa Karawang adalah Perguruan Tinggi Negeri
+            </p>
+            <a class="hero-btn" href="#">Mengetahui Lebih Banyak</a>
+        </div>
+
+    </section>
+<!------Course------->
+
+<section class="course">
+    <h1>Fakultas Ilmu Komputer</h1>
+    <p>Program Studi</p>
+
+    <div class="row">
+        <div class="course-col">
+            <h3>Informatika</h3>
+            <p>Pada 25 Juni 2008, Program Studi Informatika secara resmi memperoleh izin 
+                penyelenggaraan melalui SK Dirjen Dikti Nomor 2007/DT/2008 dengan nama Teknik 
+                Informatika dan berubah menjadi Prodi Informatika pada tahun 2020. Prodi 
+                Informatika dikembangkan dengan mempertimbangkan potensi dan kebutuhan wilayah 
+                Karawang yang dikenal sebagai kawasan industri besar sekaligus daerah pertanian 
+                yang terus berkembang. </p>
+        </div>
+        <div class="course-col">
+            <h3>Sistem Informasi</h3>
+            <p>Upaya pendirian ini diawali dengan pengajuan resmi oleh pihak universitas pada 
+                tahun 2017, dan akhirnya mendapat izin dari Kementerian Riset, Teknologi, dan 
+                Pendidikan Tinggi pada tanggal 30 Januari 2019, melalui SK Nomor 31/KPT/I/2019. 
+                Mulai tahun akademik 2019/2020, Program Studi Sistem Informasi resmi membuka 
+                penerimaan mahasiswa baru melalui jalur nasional seperti SBMPTN dan SMMPTN.</p>
+        </div>
+
+</section>
+
+<!--campus-->
+<section class="campus">
+    <h1>Foto Kampus</h1>
+    <p>Kampus Kami</p>
+
+    <div class="row">
+        <div class="campus-col">
+            <img src="static/images/foto2.jpg">
+            <div class="layer">
+                <h3>Universitas<br>Singaperbangsa Karawang</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="static/images/foto1.jpg">
+            <div class="layer">
+                <h3>Universitas<br>Singaperbangsa Karawang</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="static/images/foto3.jpg">
+            <div class="layer">
+                <h3>Universitas<br>Singaperbangsa Karawang</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Fasilities-->
+<section class="fasilities">
+    <h1>Fasilitas Kampus</h1>
+    <p>Fasilitas Kami</p>
+
+    <div class="row">
+        <div class="fasilities-col">
+            <img src="static/images/perpus1.jpg">
+                <h3>Perpustakaan</h3>
+                <p>Perpustakaan Universitas Singaperbangsa Karawang</p>
+        </div>
+        <div class="fasilities-col">
+            <img src="static/images/kelas1.jpg">
+                <h3>Ruang Kelas</h3>
+                <p>Tempat belajar dan mengajar Universitas Singaperbangsa Karawang</p>
+        </div>
+        <div class="fasilities-col">
+            <img src="static/images/lab1.jpg">
+                <h3>Labolatorium Komputer</h3>
+                <p>Laboratorium komputer Universitas Singaperbangsa Karawang</p>
+        </div>
+    </div>
+</section>
+
+<!--testimoni-->
+<section class="testimoni">
+    <h1>Tanggapan mahasiswa</h1>
+    <p>Apa Kata Mahasiswa Kami</p>
+
+    <div class="row">
+        <div class="testimoni-col">
+            <img src="static/images/testi2.jpg">
+            <div>
+                <p>“Universitas Singaperbangsa Karawang memang sudah membuktikan “lulusannya berkualitas, unggul dan berkarakter”. 
+                    Dengan bekal yang diberikan selama kuliah, saya mampu berkompetisi dan mengimplementasikan ilmu di dunia kerja.
+                     Saya sekarang sebagai Owner/President di Creative Design Interior Bandung dan Trainer Digital Marketing.”</p>
+                   <h3>Muhammad Sulton</h3>
+                   <P>OWNER / PEMILIK HATI PUJA</P>
+            </div>
+        </div>
+        <div class="testimoni-col">
+            <img src="static/images/testi3.jpg">
+            <div>
+                <p>“Terima kasih banyak untuk stmik jabar untuk Universitas Singaperbangsa Karawang dan para dosen sehingga saya menjadi PNS di Kementrian 
+                    Hukum dan HAM yang saya impikan sejak dulu, sangat mudah beradaptasi dalam bekerja karena hampir semua ilmu 
+                    yang saya pelajari di kampus dapat saya implementasikan di dunia kerja.”</p>
+                   <h3>Pindo Saputra Harmanto</h3>
+                   <p>OWNER / PEMILIK PISAH STUDIO GROUP</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- footer -->
+
+<section class="footer">
+    <p>@2025 Universitas Singaperbangsa Karawang</p>
+</section>
+
+</body>
+</html>
